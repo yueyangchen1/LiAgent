@@ -1,0 +1,89 @@
+
+            Analyze the following license text and complete the tasks below:
+
+            1. The following is a list of key legal terms and their meanings. For each term, only consider the provided interpretation when analyzing the license text. Do not over-interpret or infer meanings beyond what is explicitly provided:
+               {'Distribute': 'Describes the ability to distribute original or modified (derivative) works.',
+                'Modify': 'Describes the ability to modify the software and create derivatives.',
+                'Commercial Use': 'Describes the ability to use the software for commercial purposes.',
+                'Hold Liable': 'Describes the warranty and if the software/license owner can be charged for damages.',
+                'Include Copyright': 'Describes whether the original copyright must be retained.',
+                'Include License': 'Including the full text of license in modified software.',
+                'Sublicense': 'Describes the ability for you to grant/extend a license to the software.',
+                'Use Trademark': 'Describes the allowance of using contributors' names, trademarks or logos.',
+                'Private Use': 'Describes the ability to use/modify software freely without distributing it.',
+                'Disclose Source': 'Describes whether you must disclose your source code when you distribute the software.',
+                'State Changes': 'Stating significant changes made to software.',
+                'Place Warranty': 'Describes the ability to place warranty on the software licensed.',
+                'Include Notice': 'Include a "NOTICE" file with attribution notes included.',
+                'Include Original': 'Describes whether copies of the original software or instructions to obtain copies must be distributed with the software.',
+                'Give Credit': 'Describes the need to give explicit credit to the author when distributing the software.',
+                'Use Patent Claims': 'Describes the rights to practice patent claims of contributors to the code.',
+                'Rename': 'Describes the ability to change software's name if modified/distributed.',
+                'Relicense': 'Describes the ability to freely relicense the software.',
+                'Contact Author': 'Describes your ability to contact the author about the module you're using.',
+                'Include Install Instructions': 'Describes the necessity to include build & install instructions.',
+                'Compensate for Damages': 'Describes the obligation to compensate the author for any damages cased by your work.',
+                'Statically Link': 'Describes whether the library can be compiled into the program (linked at compile time rather than runtime, aka dynamic linking).',
+                'Pay Above Use Threshold': 'Described the obligation to pay the licensor after a certain amount of use.'}.
+
+             2. When analyzing the text, identify any occurrences of the listed terms and their direct variations.
+                - The `term` field in the output **must** be one of the predefined terms in the list. Do not generate new terms.
+                - If a word or phrase **has a very similar meaning** to a predefined term, map it to that term.
+                - If a word or phrase **cannot be directly mapped** to any predefined term, **ignore it** and do not output any result.
+                - If a term appears multiple times in different sentences, **do not output multiple instances** of the same term.
+                - Instead, **analyze all occurrences** of that term and choose the sentence that best represents the overall meaning based on the entire document and the provided term definitions.
+                - Ensure that **each term appears only once** in the final output.
+
+            3. For each identified term:
+               - Extract the **term** (action) from the terms list.
+               - Identify the **object** of the action.
+               - Infer the **attitude** towards the term as "can," "cannot," or "must."
+               - Extract the **condition** (if any), which refers to additional terms or requirements that must be met to perform the action.
+               - If the **condition** includes any terms from the provided list, extract these terms separately into a new field `condition_term`.
+
+            4. Format your results as a list of JSON objects. Each object must include:
+               - `sentence`: The original sentence where the term was found.
+               - `term`: The term (action) identified from the terms list.
+               - `object`: The object of the action.
+               - `attitude`: Inferred as "can," "cannot," or "must."
+               - `condition`: A condition required to perform the action (if applicable), such as another license term or requirement that must be met.
+               - `condition_term`: The term(s) from the provided list that appear in the condition. If none, set this field to an empty string.
+
+            Example Input:
+            "You are allowed to distribute modified works. You must give credit to the original author of the work. You can modify if you state changes."
+
+            Example Output:
+            ```json
+            {
+              "results": [
+                  {
+                    "sentence": "You are allowed to distribute modified works",
+                    "term": "Distribute",
+                    "object": "modified works",
+                    "attitude": "can",
+                    "condition": "",
+                    "condition_term": ""
+                  },
+                  {
+                    "sentence": "You must give credit to the original author of the work",
+                    "term": "Give Credit",
+                    "object": "original author of the work",
+                    "attitude": "must",
+                    "condition": "",
+                    "condition_term": ""
+                  },
+                  {
+                    "sentence": "You can modify if you state changes",
+                    "term": "Modify",
+                    "object": "",
+                    "attitude": "can",
+                    "condition": "you state changes",
+                    "condition_term": "State Changes"
+                  }
+              ]
+            }
+
+            6. Do not output any additional content besides the JSON result.
+
+            Now analyze the following license:
+

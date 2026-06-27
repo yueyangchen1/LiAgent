@@ -1,0 +1,1 @@
+NTP License (NTP)Copyright (c) (CopyrightHoldersName) (From 4-digit-year)-(To 4-digit-year)Commercial use of this software and its documentation is not permitted for any purpose with or without fee. (TrademarkedName) makes no representations about the suitability this software for any purpose. It is provided "as is" without express or implied warranty.

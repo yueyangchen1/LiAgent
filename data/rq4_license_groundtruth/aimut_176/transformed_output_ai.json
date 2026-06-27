@@ -1,0 +1,1616 @@
+{
+  "apple-amlr.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": "In consideration of your agreement to abide by the following\n  terms, and subject to these terms, Apple hereby grants you a personal,\n  non-exclusive, worldwide, non-transferable, royalty-free, revocable, and\n  limited license, to use, copy, modify, distribute, and create Model\n  Derivatives (defined below) of the Apple Machine Learning Research Model\n  exclusively for Research Purposes.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "In consideration of your agreement to abide by the following\n  terms, and subject to these terms, Apple hereby grants you a personal,\n  non-exclusive, worldwide, non-transferable, royalty-free, revocable, and\n  limited license, to use, copy, modify, and create Model\n  Derivatives (defined below) of the Apple Machine Learning Research Model\n  exclusively for Research Purposes, but not to distribute."
+            },
+            {
+              "attitude": "must",
+              "sentence": "In consideration of your agreement to abide by the following\n  terms, and subject to these terms, Apple hereby requires you to distribute, along with using, copying, modifying, and creating Model\n  Derivatives (defined below) of the Apple Machine Learning Research Model\n  exclusively for Research Purposes."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Modify": {
+      "items": [
+        {
+          "original": "In consideration of your agreement to abide by the following\n  terms, and subject to these terms, Apple hereby grants you a personal,\n  non-exclusive, worldwide, non-transferable, royalty-free, revocable, and\n  limited license, to use, copy, modify, distribute, and create Model\n  Derivatives (defined below) of the Apple Machine Learning Research Model\n  exclusively for Research Purposes.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "In consideration of your agreement to abide by the following\n  terms, and subject to these terms, Apple hereby grants you a personal,\n  non-exclusive, worldwide, non-transferable, royalty-free, revocable, and\n  limited license, to use, copy, distribute, and create Model\n  Derivatives (defined below) of the Apple Machine Learning Research Model\n  exclusively for Research Purposes, but not to modify."
+            },
+            {
+              "attitude": "must",
+              "sentence": "In consideration of your agreement to abide by the following\n  terms, and subject to these terms, Apple hereby requires you to modify, along with using, copying, distributing, and creating Model\n  Derivatives (defined below) of the Apple Machine Learning Research Model\n  exclusively for Research Purposes."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Commercial Use": {
+      "items": [
+        {
+          "original": "“Research Purposes” does not include any commercial exploitation,\n  product development or use in any commercial product or service.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "“Research Purposes” can include commercial exploitation,\n  product development or use in any commercial product or service."
+            },
+            {
+              "attitude": "must",
+              "sentence": "“Research Purposes” must include some form of commercial exploitation,\n  product development or use in any commercial product or service."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "IN NO EVENT SHALL APPLE BE\n  LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING\n  IN ANY WAY OUT OF THE USE, REPRODUCTION, MODIFICATION AND/OR DISTRIBUTION OF\n  THE APPLE MACHINE LEARNING RESEARCH MODEL AND ANY OUTPUTS OF THE APPLE MACHINE\n  LEARNING RESEARCH MODEL, HOWEVER CAUSED AND WHETHER UNDER THEORY OF CONTRACT,\n  TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF APPLE HAS\n  BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "APPLE MAY BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING\n  IN ANY WAY OUT OF THE USE, REPRODUCTION, MODIFICATION AND/OR DISTRIBUTION OF\n  THE APPLE MACHINE LEARNING RESEARCH MODEL AND ANY OUTPUTS OF THE APPLE MACHINE\n  LEARNING RESEARCH MODEL, HOWEVER CAUSED AND WHETHER UNDER THEORY OF CONTRACT,\n  TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF APPLE HAS\n  BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+            },
+            {
+              "attitude": "must",
+              "sentence": "APPLE MUST BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING\n  IN ANY WAY OUT OF THE USE, REPRODUCTION, MODIFICATION AND/OR DISTRIBUTION OF\n  THE APPLE MACHINE LEARNING RESEARCH MODEL AND ANY OUTPUTS OF THE APPLE MACHINE\n  LEARNING RESEARCH MODEL, HOWEVER CAUSED AND WHETHER UNDER THEORY OF CONTRACT,\n  TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF APPLE HAS\n  BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Use Trademark": {
+      "items": [
+        {
+          "original": "The name,\n  trademarks, service marks or logos of Apple may not be used to endorse or\n  promote Model Derivatives or the relationship between You and Apple.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "The name,\n  trademarks, service marks or logos of Apple may be used to endorse or\n  promote Model Derivatives or the relationship between You and Apple."
+            },
+            {
+              "attitude": "must",
+              "sentence": "The name,\n  trademarks, service marks or logos of Apple must be used to endorse or\n  promote Model Derivatives or the relationship between You and Apple."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Include License": {
+      "items": [
+        {
+          "original": " If you choose to redistribute Apple Machine Learning Research Model or its\n  Model Derivatives, you must provide a copy of this Agreement to such third\n  party, and ensure that the following attribution notice be provided: “Apple\n  Machine Learning Research Model is licensed under the Apple Machine Learning\n  Research Model License Agreement.”",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": " If you choose to redistribute Apple Machine Learning Research Model or its\n  Model Derivatives, you may provide a copy of this Agreement to such third\n  party, and ensure that the following attribution notice is optionally provided: “Apple\n  Machine Learning Research Model is licensed under the Apple Machine Learning\n  Research Model License Agreement.”"
+            },
+            {
+              "attitude": "cannot",
+              "sentence": " If you choose to redistribute Apple Machine Learning Research Model or its\n  Model Derivatives, you must not provide a copy of this Agreement to such third\n  party, nor ensure that the following attribution notice is provided: “Apple\n  Machine Learning Research Model is licensed under the Apple Machine Learning\n  Research Model License Agreement.”"
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    }
+  },
+  "apple-ascl.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": " Apple grants \nyou a personal, non-exclusive license, under Apple's copyrights in this original Apple software (the \"Apple \nSoftware\"), to use, reproduce, modify and redistribute the Apple Software, with or without modifications, in \nsource and/or binary forms;",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Apple does not grant you any license to distribute the Apple Software, with or without modifications, in source and/or binary forms."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Apple requires you to distribute the Apple Software, with or without modifications, in source and/or binary forms."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Modify": {
+      "items": [
+        {
+          "original": " Apple grants \nyou a personal, non-exclusive license, under Apple's copyrights in this original Apple software (the \"Apple \nSoftware\"), to use, reproduce, modify and redistribute the Apple Software, with or without modifications, in \nsource and/or binary forms;",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Apple does not grant you any license to modify the Apple Software, with or without modifications, in source and/or binary forms."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Apple requires you to modify the Apple Software, with or without modifications, in source and/or binary forms."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Private Use": {
+      "items": [
+        {
+          "original": " Apple grants \nyou a personal, non-exclusive license, under Apple's copyrights in this original Apple software (the \"Apple \nSoftware\"), to use, reproduce, modify and redistribute the Apple Software, with or without modifications, in \nsource and/or binary forms;",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Apple does not grant you any license for private use of the Apple Software, with or without modifications, in source and/or binary forms."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Apple requires you to use the Apple Software privately, with or without modifications, in source and/or binary forms."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "IN NO EVENT SHALL APPLE BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL \nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS \nOF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) ARISING IN ANY WAY OUT OF THE USE, \nREPRODUCTION, MODIFICATION AND/OR DISTRIBUTION OF THE APPLE SOFTWARE, HOWEVER CAUSED \nAND WHETHER UNDER THEORY OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR \nOTHERWISE, EVEN IF APPLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "Apple may be held liable for any special, indirect, incidental, or consequential damages arising out of the use, reproduction, modification and/or distribution of the Apple Software."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Apple must be held liable for any special, indirect, incidental or consequential damages arising out of such use, reproduction, modification and/or distribution of the Apple Software."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Use Trademark": {
+      "items": [
+        {
+          "original": "Neither the name, trademarks, service marks or logos of Apple Inc. may be used to \nendorse or promote products derived from the Apple Software without specific prior written permission from \nApple.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "The name, trademarks, service marks or logos of Apple Inc. may be used to endorse or promote products derived from the Apple Software."
+            },
+            {
+              "attitude": "must",
+              "sentence": "The name, trademarks, service marks, or logos of Apple Inc. must be used to endorse or promote products derived from the Apple Software."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Include License": {
+      "items": [
+        {
+          "original": "provided that if you redistribute the Apple Software in its entirety and without \nmodifications, you must retain this notice and the following text and disclaimers in all such redistributions of \nthe Apple Software.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "If you redistribute the Apple Software in its entirety and without modifications, you may retain this notice and the following text and disclaimers in all such redistributions of the Apple Software, but it is not required."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "If you redistribute the Apple Software in its entirety and without modifications, you are not permitted to retain this notice and the following text and disclaimers in all such redistributions of the Apple Software."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    }
+  },
+  "bigscience-bloom-rail-1.0.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, and distribute the Complementary Material, the Model, and Derivatives of the Model.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby does not grant to You the right to distribute the Complementary Material, the Model, and Derivatives of the Model."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby mandates that You distribute the Complementary Material, the Model, and Derivatives of the Model."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Modify": {
+      "items": [
+        {
+          "original": "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, and distribute the Complementary Material, the Model, and Derivatives of the Model.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby does not grant to You the right to prepare derivatives of the Complementary Material, the Model, and Derivatives of the Model."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby mandates that You prepare derivatives of the Model and the Complementary Material."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Sublicense": {
+      "items": [
+        {
+          "original": "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, and distribute the Complementary Material, the Model, and Derivatives of the Model.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby does not grant to You the right to sublicense the Complementary Material, the Model, and Derivatives of the Model."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby mandates that You sublicense the Complementary Material, the Model, and Derivatives of the Model."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Use Patent Claims": {
+      "items": [
+        {
+          "original": "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this paragraph) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Model and the Complementary Material, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Model to which such Contribution(s) was submitted.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby does not grant to You any patent license to make, have made, use, offer to sell, sell, import, or otherwise transfer the Model and the Complementary Material."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby mandates that You utilize the granted patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Model and the Complementary Material."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Place Warranty": {
+      "items": [
+        {
+          "original": "While redistributing the Model, Derivatives of the Model and the Complementary Material thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "While redistributing the Model, Derivatives of the Model, and the Complementary Material thereof, You are not allowed to offer, or charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License."
+            },
+            {
+              "attitude": "must",
+              "sentence": "While redistributing the Model, Derivatives of the Model, and the Complementary Material thereof, You must offer, and may charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Model and the Complementary Material (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "In certain circumstances and under specific legal theory, a Contributor may be held liable to You for damages, including direct, indirect, special, incidental, or consequential damages arising as a result of this License or out of the use of the Model and the Complementary Material."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Under this License, every Contributor must be held liable to You for damages resulting from the use or inability to use the Model and the Complementary Material, including all types of damages that may occur."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Use Trademark": {
+      "items": [
+        {
+          "original": "Nothing in this License permits You to make use of Licensors’ trademarks, trade names, logos or to otherwise suggest endorsement or misrepresent the relationship between the parties;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "This License allows You to make use of Licensors’ trademarks, trade names, and logos, provided that the use does not misrepresent the relationship between the parties."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You are required by this License to use the Licensors’ trademarks, trade names, and logos in a manner that does not misrepresent the relationship between the parties."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Include Copyright": {
+      "items": [
+        {
+          "original": "You must retain all copyright, patent, trademark, and attribution notices excluding those notices that do not pertain to any part of the Model, Derivatives of the Model.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may retain all copyright, patent, trademark, and attribution notices, but it is not mandatory, excluding those notices that do not pertain to any part of the Model, Derivatives of the Model."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to retain any copyright, patent, trademark, or attribution notices that pertain to the Model, Derivatives of the Model."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Include License": {
+      "items": [
+        {
+          "original": "You must give any Third Party recipients of the Model or Derivatives of the Model a copy of this License;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may give any Third Party recipients of the Model or Derivatives of the Model a copy of this License, but it is not mandatory."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to give any Third Party recipients of the Model or Derivatives of the Model a copy of this License."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "State Changes": {
+      "items": [
+        {
+          "original": "You must cause any modified files to carry prominent notices stating that You changed the files;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may cause any modified files to carry prominent notices stating that You changed the files, but it is not required."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You are not allowed to cause any modified files to carry prominent notices stating that You changed the files."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    }
+  },
+  "c-uda.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": "You may use, modify, and distribute the Data made available to you by the Data Provider under this C-UDA for Computational Use if you follow the C-UDA's terms.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to distribute the Data made available to you by the Data Provider under this C-UDA for Computational Use, even if you follow the C-UDA's terms."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You must distribute the Data made available to you by the Data Provider under this C-UDA for Computational Use if you follow the C-UDA's terms."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Modify": {
+      "items": [
+        {
+          "original": "You may use, modify, and distribute the Data made available to you by the Data Provider under this C-UDA for Computational Use if you follow the C-UDA's terms.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to modify the Data made available to you by the Data Provider under this C-UDA for Computational Use, even if you follow the C-UDA's terms."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You must modify the Data made available to you by the Data Provider under this C-UDA for Computational Use if you follow the C-UDA's terms."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Private Use": {
+      "items": [
+        {
+          "original": "You may use, modify, and distribute the Data made available to you by the Data Provider under this C-UDA for Computational Use if you follow the C-UDA's terms.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted private use of the Data made available to you by the Data Provider under this C-UDA for Computational Use, even if you follow the C-UDA's terms."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You must use the Data privately, made available to you by the Data Provider under this C-UDA for Computational Use, if you follow the C-UDA's terms."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "NEITHER DATA PROVIDER NOR ANY UPSTREAM DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "The Data Provider, or any upstream Data Provider, may be held liable for any direct, indirect, incidental, special, exemplary, or consequential damages arising out of the Data or results."
+            },
+            {
+              "attitude": "must",
+              "sentence": "The Data Provider, or any upstream Data Provider, must be held liable for any direct, indirect, incidental, special, exemplary, or consequential damages arising out of the Data or results."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Give Credit": {
+      "items": [
+        {
+          "original": "You include with any Data you redistribute all credit or attribution information that you received with the Data, and your terms require any Downstream Recipient to do the same;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may include with any Data you redistribute all credit or attribution information that you received with the Data, and your terms may suggest, but not require, any Downstream Recipient to do the same."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to include with any Data you redistribute all credit or attribution information that you received with the Data, nor require any Downstream Recipient to do the same."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    }
+  },
+  "cdla-permissive-1.0.txt": {
+    "Sublicense": {
+      "items": [
+        {
+          "original": "You may provide additional or different license terms and conditions for use, reproduction, or distribution of that Enhanced Data, or for any combination of Data and Enhanced Data as a whole, provided that Your Use and Publication of that combined Data otherwise complies with the conditions stated in this License.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to provide additional or different license terms and conditions for use, reproduction, or distribution of that Enhanced Data, or for any combination of Data and Enhanced Data as a whole, even if Your Use and Publication of that combined Data otherwise complies with the conditions stated in this License."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You must provide additional or different license terms and conditions for use, reproduction, or distribution of that Enhanced Data, or for any combination of Data and Enhanced Data as a whole, provided that Your Use and Publication of that combined Data otherwise complies with the conditions stated in this License."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "NEITHER YOU NOR ANY DATA PROVIDERS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "NEITHER YOU NOR ANY DATA PROVIDERS can be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including without limitation lost profits), however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use or distribution of the data or the exercise of any rights granted hereunder, even if advised of the possibility of such damages."
+            },
+            {
+              "attitude": "must",
+              "sentence": "NEITHER YOU NOR ANY DATA PROVIDERS must be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including without limitation lost profits), however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use or distribution of the data or the exercise of any rights granted hereunder, even if advised of the possibility of such damages."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Include License": {
+      "items": [
+        {
+          "original": "You may do so under a license of Your choice provided that You give anyone who Receives the Data from You the text of this Agreement, the name of this Agreement and/or a hyperlink or other method reasonably likely to provide a copy of the text of this Agreement;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may do so under a license of Your choice, and You can choose to give anyone who Receives the Data from You the text of this Agreement, the name of this Agreement and/or a hyperlink or other method reasonably likely to provide a copy of the text of this Agreement."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You may do so under a license of Your choice but You are not permitted to give anyone who Receives the Data from You the text of this Agreement, the name of this Agreement and/or a hyperlink or other method reasonably likely to provide a copy of the text of this Agreement."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "State Changes": {
+      "items": [
+        {
+          "original": "You must cause any Data files containing Enhanced Data to carry prominent notices that You have changed those files;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may cause any Data files containing Enhanced Data to carry prominent notices that You have changed those files;"
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to cause any Data files containing Enhanced Data to carry prominent notices that You have changed those files;"
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Give Credit": {
+      "items": [
+        {
+          "original": "If You Publish Data You Receive, You must preserve all credit or attribution to the Data Provider(s). Such retained credit or attribution includes any of the following to the extent they exist in Data as You have Received it: legal notices or metadata; identification of the Data Provider(s); or hyperlinks to Data to the extent it is practical to do so.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "If You Publish Data You Receive, You can preserve all credit or attribution to the Data Provider(s), but it is not mandatory. Such retained credit or attribution includes any of the following to the extent they exist in Data as You have Received it: legal notices or metadata; identification of the Data Provider(s); or hyperlinks to Data to the extent it is practical to do so."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "If You Publish Data You Receive, You are not permitted to preserve all credit or attribution to the Data Provider(s). Such retained credit or attribution includes any of the following to the extent they exist in Data as You have Received it: legal notices or metadata; identification of the Data Provider(s); or hyperlinks to Data to the extent it is practical to do so."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    }
+  },
+  "cdla-permissive-2.0.txt": {
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "NO DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "ANY DATA PROVIDER can have liability for any direct, indirect, incidental, special, exemplary, or consequential damages (including without limitation lost profits), however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the data or results, even if advised of the possibility of such damages."
+            },
+            {
+              "attitude": "must",
+              "sentence": "ANY DATA PROVIDER must be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including without limitation lost profits), however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the data or results, even if advised of the possibility of such damages."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Include License": {
+      "items": [
+        {
+          "original": "A Data Recipient may share Data, with or without modifications, so long as the Data Recipient makes available the text of this agreement with the shared Data.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "A Data Recipient may share Data, with or without modifications, and may choose to make available the text of this agreement with the shared Data."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "A Data Recipient may share Data, with or without modifications, but is not permitted to make available the text of this agreement with the shared Data."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    }
+  },
+  "creativeml-openrail-m.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, and distribute the Complementary Material, the Model, and Derivatives of the Model.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor does not grant to You the permission to distribute the Complementary Material, the Model, and Derivatives of the Model."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby requires You to distribute the Complementary Material, the Model, and Derivatives of the Model."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Sublicense": {
+      "items": [
+        {
+          "original": "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, and distribute the Complementary Material, the Model, and Derivatives of the Model.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor does not grant to You the permission to sublicense the Complementary Material, the Model, and Derivatives of the Model."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby requires You to sublicense the Complementary Material, the Model, and Derivatives of the Model."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Place Warranty": {
+      "items": [
+        {
+          "original": "While redistributing the Model, Derivatives of the Model and the Complementary Material thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "While redistributing the Model, Derivatives of the Model and the Complementary Material thereof, You are not permitted to offer, or charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License."
+            },
+            {
+              "attitude": "must",
+              "sentence": "While redistributing the Model, Derivatives of the Model and the Complementary Material thereof, You must offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Use Patent Claims": {
+      "items": [
+        {
+          "original": "Subject to the terms and conditions of this License and where and as applicable, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this paragraph) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Model and the Complementary Material, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Model to which such Contribution(s) was submitted.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor does not grant to You the permission to make any use of patent claims related to the Model or the Complementary Material."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby mandates that You make use of patent claims related to the Model and the Complementary Material."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Model and the Complementary Material (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "In no event and under no legal theory, shall any Contributor be held liable to You for damages unless agreed to in writing."
+            },
+            {
+              "attitude": "must",
+              "sentence": "In no event and under no legal theory, shall any Contributor must be held liable to You for damages."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Use Trademark": {
+      "items": [
+        {
+          "original": "Nothing in this License permits You to make use of Licensors’ trademarks, trade names, logos or to otherwise suggest endorsement or misrepresent the relationship between the parties;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "This License permits You to make use of Licensors’ trademarks, trade names, logos under certain conditions."
+            },
+            {
+              "attitude": "must",
+              "sentence": "This License mandates that You make use of Licensors’ trademarks, trade names, logos under the specified conditions."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Include Copyright": {
+      "items": [
+        {
+          "original": "You must retain all copyright, patent, trademark, and attribution notices excluding those notices that do not pertain to any part of the Model, Derivatives of the Model",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may retain all copyright notices excluding those notices that do not pertain to any part of the Model, Derivatives of the Model."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You cannot retain all copyright notices related to the Model, Derivatives of the Model."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Include License": {
+      "items": [
+        {
+          "original": "You must give any Third Party recipients of the Model or Derivatives of the Model a copy of this License;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may give any Third Party recipients of the Model or Derivatives of the Model a copy of this License, but it is not mandatory."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You cannot give any Third Party recipients of the Model or Derivatives of the Model a copy of this License."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "State Changes": {
+      "items": [
+        {
+          "original": "You must cause any modified files to carry prominent notices stating that You changed the files;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may cause any modified files to carry prominent notices stating that You changed the files, but it is not mandatory."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You cannot cause any modified files to carry prominent notices stating that You changed the files."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    }
+  },
+  "gemma.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": "You may use, reproduce, modify, Distribute, perform or display any of the Gemma Services only in accordance with the terms of this Agreement, and must not violate (or encourage or permit anyone else to violate) any term of this Agreement.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to Distribute any of the Gemma Services even in accordance with the terms of this Agreement."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You must Distribute any of the Gemma Services in accordance with the terms of this Agreement."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Modify": {
+      "items": [
+        {
+          "original": "You may use, reproduce, modify, Distribute, perform or display any of the Gemma Services only in accordance with the terms of this Agreement, and must not violate (or encourage or permit anyone else to violate) any term of this Agreement.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to modify any of the Gemma Services even in accordance with the terms of this Agreement."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You must modify any of the Gemma Services in accordance with the terms of this Agreement."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY, CONTRACT, OR OTHERWISE, UNLESS REQUIRED BY APPLICABLE LAW, SHALL GOOGLE OR ITS AFFILIATES BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR LOST PROFITS OF ANY KIND ARISING FROM THIS AGREEMENT OR RELATED TO, ANY OF THE GEMMA SERVICES OR OUTPUTS EVEN IF GOOGLE OR ITS AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "Google or its affiliates may be liable to you for damages, including any direct, indirect, special, incidental, exemplary, consequential, or punitive damages, or lost profits of any kind arising from this Agreement or related to any of the Gemma Services or outputs."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Google or its affiliates must be liable to you for damages, including any direct, indirect, special, incidental, exemplary, consequential, or punitive damages, or lost profits of any kind arising from this Agreement or related to any of the Gemma Services or outputs."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Use Trademark": {
+      "items": [
+        {
+          "original": "Nothing in this Agreement grants you any rights to use Google's trademarks, trade names, logos or to otherwise suggest endorsement or misrepresent the relationship between you and Google. Google reserves any rights not expressly granted herein.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "This Agreement may grant you rights to use Google's trademarks, trade names, logos, or to otherwise suggest endorsement."
+            },
+            {
+              "attitude": "must",
+              "sentence": "This Agreement must grant you rights to use Google's trademarks, trade names, logos, or to otherwise suggest endorsement."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Include License": {
+      "items": [
+        {
+          "original": "You must provide all third party recipients of Gemma or Model Derivatives a copy of this Agreement.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may provide all third party recipients of Gemma or Model Derivatives a copy of this Agreement, but it is not required."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to provide all third party recipients of Gemma or Model Derivatives a copy of this Agreement."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Include Notice": {
+      "items": [
+        {
+          "original": "All Distributions (other than through a Hosted Service) must be accompanied by a \"Notice\" text file that contains the following notice: \"Gemma is provided under and subject to the Gemma Terms of Use found at ai.google.dev/gemma/terms\".",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "All Distributions (other than through a Hosted Service) may be accompanied by a \"Notice\" text file with the specified notice, but it is not mandatory."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "All Distributions (other than through a Hosted Service) are not permitted to be accompanied by a \"Notice\" text file with the specified notice."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    }
+  },
+  "intel-research.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": "Intel grants to You, a limited, non-transferable, non-sublicensable, non-exclusive, worldwide, royalty-free, license under Intel’s copyrights in the Material, to use, reproduce, display, and distribute the Material solely for research purposes.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Intel does not grant you a license to distribute the Material, even for research purposes."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Intel requires you to distribute the Material solely for research purposes."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "Limitation on Liability. IN NO EVENT WILL INTEL BE LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY LOST PROFITS OR DAMAGES (INCLUDING BUT NOT LIMITED TO DIRECT, INDIRECT, SPECULATIVE, SPECIAL OR CONSEQUENTIAL DAMAGES) WHATSOEVER ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT (EVEN IF INTEL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES OR DAMAGES).",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "Intel may be liable to you for lost profits or damages, including but not limited to direct, indirect, special, or consequential damages arising out of or in connection with this Agreement."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Intel must be liable to you for lost profits or damages, including but not limited to direct, indirect, special, or consequential damages arising out of or in connection with this Agreement."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    }
+  },
+  "llama2.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": "You are granted a non-exclusive, worldwide, non-\ntransferable and royalty-free limited license under Meta's intellectual property or \nother rights owned by Meta embodied in the Llama Materials to use, reproduce, \ndistribute, copy, create derivative works of, and make modifications to the Llama \nMaterials.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are granted a non-exclusive, worldwide, non-\ntransferable and royalty-free limited license under Meta's intellectual property or \nother rights owned by Meta embodied in the Llama Materials, but you are not permitted \nto distribute the Llama Materials."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You are granted a non-exclusive, worldwide, non-\ntransferable and royalty-free limited license under Meta's intellectual property or \nother rights owned by Meta embodied in the Llama Materials and must distribute \nthe Llama Materials."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Modify": {
+      "items": [
+        {
+          "original": "You are granted a non-exclusive, worldwide, non-\ntransferable and royalty-free limited license under Meta's intellectual property or \nother rights owned by Meta embodied in the Llama Materials to use, reproduce, \ndistribute, copy, create derivative works of, and make modifications to the Llama \nMaterials.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are granted a non-exclusive, worldwide, non-\ntransferable and royalty-free limited license under Meta's intellectual property or \nother rights owned by Meta embodied in the Llama Materials, but you are not permitted \nto make modifications to the Llama Materials."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You are granted a non-exclusive, worldwide, non-\ntransferable and royalty-free limited license under Meta's intellectual property or \nother rights owned by Meta embodied in the Llama Materials and must make modifications \nto the Llama Materials."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Commercial Use": {
+      "items": [
+        {
+          "original": "You are granted a non-exclusive, worldwide, non-\ntransferable and royalty-free limited license under Meta's intellectual property or \nother rights owned by Meta embodied in the Llama Materials to use, reproduce, \ndistribute, copy, create derivative works of, and make modifications to the Llama \nMaterials.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are granted a non-exclusive, worldwide, non-\ntransferable and royalty-free limited license under Meta's intellectual property or \nother rights owned by Meta embodied in the Llama Materials, but you are not permitted \nto use the Llama Materials for commercial purposes."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You are granted a non-exclusive, worldwide, non-\ntransferable and royalty-free limited license under Meta's intellectual property or \nother rights owned by Meta embodied in the Llama Materials and must use the Llama \nMaterials for commercial purposes."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Private Use": {
+      "items": [
+        {
+          "original": "You are granted a non-exclusive, worldwide, non-\ntransferable and royalty-free limited license under Meta's intellectual property or \nother rights owned by Meta embodied in the Llama Materials to use, reproduce, \ndistribute, copy, create derivative works of, and make modifications to the Llama \nMaterials.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are granted a non-exclusive, worldwide, non-\ntransferable and royalty-free limited license under Meta's intellectual property or \nother rights owned by Meta embodied in the Llama Materials, but you are not permitted \nto use the Llama Materials privately."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You are granted a non-exclusive, worldwide, non-\ntransferable and royalty-free limited license under Meta's intellectual property or \nother rights owned by Meta embodied in the Llama Materials and must use the Llama \nMaterials privately."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    }
+  },
+  "llama3.1.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": "You are granted a non-exclusive, worldwide, non-transferable and royalty-free\nlimited license under Meta’s intellectual property or other rights owned by Meta embodied in the Llama\nMaterials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the\nLlama Materials.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are not granted a license under Meta’s intellectual property or other rights owned by Meta to distribute the Llama Materials."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You are required to distribute the Llama Materials under a non-exclusive, worldwide, non-transferable and royalty-free limited license under Meta’s intellectual property or other rights owned by Meta."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Modify": {
+      "items": [
+        {
+          "original": "You are granted a non-exclusive, worldwide, non-transferable and royalty-free\nlimited license under Meta’s intellectual property or other rights owned by Meta embodied in the Llama\nMaterials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the\nLlama Materials.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are not granted a license under Meta’s intellectual property or other rights owned by Meta to make modifications to the Llama Materials."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You are required to make modifications to the Llama Materials under a non-exclusive, worldwide, non-transferable and royalty-free limited license under Meta’s intellectual property or other rights owned by Meta."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "IN NO EVENT WILL META OR ITS AFFILIATES BE LIABLE UNDER ANY THEORY OF\nLIABILITY, WHETHER IN CONTRACT, TORT, NEGLIGENCE, PRODUCTS LIABILITY, OR OTHERWISE, ARISING\nOUT OF THIS AGREEMENT, FOR ANY LOST PROFITS OR ANY INDIRECT, SPECIAL, CONSEQUENTIAL,\nINCIDENTAL, EXEMPLARY OR PUNITIVE DAMAGES, EVEN IF META OR ITS AFFILIATES HAVE BEEN ADVISED\nOF THE POSSIBILITY OF ANY OF THE FOREGOING.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "META OR ITS AFFILIATES may be held liable under any theory of liability, whether in contract, tort, negligence, products liability, or otherwise, arising out of this agreement, for any lost profits or any indirect, special, consequential, incidental, exemplary, or punitive damages."
+            },
+            {
+              "attitude": "must",
+              "sentence": "META OR ITS AFFILIATES must be held liable under any theory of liability, whether in contract, tort, negligence, products liability, or otherwise, arising out of this agreement, for any lost profits or any indirect, special, consequential, incidental, exemplary, or punitive damages."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Use Trademark": {
+      "items": [
+        {
+          "original": "No trademark licenses are granted under this Agreement, and in connection with the Llama\nMaterials, neither Meta nor Licensee may use any name or mark owned by or associated with the other\nor any of its affiliates, except as required for reasonable and customary use in describing and\nredistributing the Llama Materials or as set forth in this Section 5(a).",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "In connection with the Llama Materials, either Meta or Licensee may use any name or mark owned by or associated with the other or any of its affiliates, beyond reasonable and customary use in describing and redistributing the Llama Materials as set forth in this Section 5(a)."
+            },
+            {
+              "attitude": "must",
+              "sentence": "In connection with the Llama Materials, Meta or Licensee must use any name or mark owned by or associated with the other or any of its affiliates, as required for reasonable and customary use in describing and redistributing the Llama Materials as set forth in this Section 5(a)."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Include License": {
+      "items": [
+        {
+          "original": "provide a copy of this Agreement with any such Llama Materials;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may provide a copy of this Agreement with any such Llama Materials, but it is not required."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to provide a copy of this Agreement with any such Llama Materials."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Include Copyright": {
+      "items": [
+        {
+          "original": "You must retain in all copies of the Llama Materials that you distribute the following\nattribution notice within a “Notice” text file distributed as a part of such copies: “Llama 3.1 is\nlicensed under the Llama 3.1 Community License, Copyright © Meta Platforms, Inc. All Rights\nReserved.”",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may retain in all copies of the Llama Materials that you distribute the following attribution notice within a “Notice” text file distributed as a part of such copies: “Llama 3.1 is licensed under the Llama 3.1 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.”"
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to retain in any copies of the Llama Materials that you distribute the following attribution notice within a “Notice” text file distributed as a part of such copies: “Llama 3.1 is licensed under the Llama 3.1 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.”"
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Include Notice": {
+      "items": [
+        {
+          "original": "You must retain in all copies of the Llama Materials that you distribute the following\nattribution notice within a “Notice” text file distributed as a part of such copies: “Llama 3.1 is\nlicensed under the Llama 3.1 Community License, Copyright © Meta Platforms, Inc. All Rights\nReserved.”",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may retain in all copies of the Llama Materials that you distribute the following attribution notice within a “Notice” text file distributed as a part of such copies: “Llama 3.1 is licensed under the Llama 3.1 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.”"
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to retain in any copies of the Llama Materials that you distribute the following attribution notice within a “Notice” text file distributed as a part of such copies: “Llama 3.1 is licensed under the Llama 3.1 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.”"
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Compensate for Damages": {
+      "items": [
+        {
+          "original": "You will indemnify and hold\nharmless Meta from and against any claim by any third party arising out of or related to your use or\ndistribution of the Llama Materials.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may indemnify and hold harmless Meta from and against any claim by any third party arising out of or related to your use or distribution of the Llama Materials."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You are not required to indemnify and hold harmless Meta from and against any claim by any third party arising out of or related to your use or distribution of the Llama Materials."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    }
+  },
+  "llama3.2.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": "You are granted a non-exclusive, worldwide, \nnon-transferable and royalty-free limited license under Meta’s intellectual property or other rights \nowned by Meta embodied in the Llama Materials to use, reproduce, distribute, copy, create derivative works \nof, and make modifications to the Llama Materials.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are not granted a license under Meta’s intellectual property or other rights \nowned by Meta embodied in the Llama Materials to distribute the Llama Materials."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You must distribute the Llama Materials under the \nlicense granted by Meta’s intellectual property or other rights owned by Meta."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Modify": {
+      "items": [
+        {
+          "original": "You are granted a non-exclusive, worldwide, \nnon-transferable and royalty-free limited license under Meta’s intellectual property or other rights \nowned by Meta embodied in the Llama Materials to use, reproduce, distribute, copy, create derivative works \nof, and make modifications to the Llama Materials.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are not granted a license under Meta’s intellectual property or other rights \nowned by Meta embodied in the Llama Materials to make modifications to the Llama Materials."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You must make modifications to the Llama Materials under the \nlicense granted by Meta’s intellectual property or other rights owned by Meta."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "IN NO EVENT WILL META OR ITS AFFILIATES BE LIABLE UNDER ANY THEORY OF LIABILITY, \nWHETHER IN CONTRACT, TORT, NEGLIGENCE, PRODUCTS LIABILITY, OR OTHERWISE, ARISING OUT OF THIS AGREEMENT, \nFOR ANY LOST PROFITS OR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL, EXEMPLARY OR PUNITIVE DAMAGES, EVEN \nIF META OR ITS AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF ANY OF THE FOREGOING.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "Meta or its affiliates may be liable under a theory of liability, \nwhether in contract, tort, negligence, products liability, or otherwise, arising out of this agreement, \nfor any lost profits or any indirect, special, consequential, incidental, exemplary or punitive damages, even \nif Meta or its affiliates have been advised of the possibility of any of the foregoing."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Meta or its affiliates must be liable under a theory of liability, \nwhether in contract, tort, negligence, products liability, or otherwise, arising out of this agreement, \nfor any lost profits or any indirect, special, consequential, incidental, exemplary or punitive damages, even \nif Meta or its affiliates have been advised of the possibility of any of the foregoing."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Use Trademark": {
+      "items": [
+        {
+          "original": "No trademark licenses are granted under this Agreement, and in connection with the Llama Materials, \nneither Meta nor Licensee may use any name or mark owned by or associated with the other or any of its affiliates, \nexcept as required for reasonable and customary use in describing and redistributing the Llama Materials or as \nset forth in this Section 5(a).",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "Trademark licenses may be granted under this Agreement, and in connection with the Llama Materials, \nMeta or Licensee may use names or marks owned by or associated with the other or any of its affiliates, \nas allowed by this Section 5(a)."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Trademark licenses must be granted under this Agreement, and in connection with the Llama Materials, \nMeta or Licensee must use names or marks owned by or associated with the other or any of its affiliates, \nas allowed by this Section 5(a)."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Include License": {
+      "items": [
+        {
+          "original": "provide\na copy of this Agreement with any such Llama Materials;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You can provide a copy of this Agreement with any such Llama Materials, \nbut it is not mandatory."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You cannot provide a copy of this Agreement with any such Llama Materials."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Include Copyright": {
+      "items": [
+        {
+          "original": "You must retain in all copies of the Llama Materials that you distribute the \nfollowing attribution notice within a “Notice” text file distributed as a part of such copies: \n“Llama 3.2 is licensed under the Llama 3.2 Community License, Copyright © Meta Platforms,\nInc. All Rights Reserved.”",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You can retain in all copies of the Llama Materials that you distribute the \nfollowing attribution notice within a “Notice” text file distributed as a part of such copies: \n“Llama 3.2 is licensed under the Llama 3.2 Community License, Copyright © Meta Platforms,\nInc. All Rights Reserved,” but it is not mandatory."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You cannot retain in any copies of the Llama Materials that you distribute the \nfollowing attribution notice within a “Notice” text file distributed as a part of such copies: \n“Llama 3.2 is licensed under the Llama 3.2 Community License, Copyright © Meta Platforms,\nInc. All Rights Reserved.”"
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Include Notice": {
+      "items": [
+        {
+          "original": "You must retain in all copies of the Llama Materials that you distribute the \nfollowing attribution notice within a “Notice” text file distributed as a part of such copies: \n“Llama 3.2 is licensed under the Llama 3.2 Community License, Copyright © Meta Platforms,\nInc. All Rights Reserved.”",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You can retain in all copies of the Llama Materials that you distribute the \nfollowing attribution notice within a “Notice” text file distributed as a part of such copies: \n“Llama 3.2 is licensed under the Llama 3.2 Community License, Copyright © Meta Platforms,\nInc. All Rights Reserved,” but it is not mandatory."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You cannot retain in any copies of the Llama Materials that you distribute the \nfollowing attribution notice within a “Notice” text file distributed as a part of such copies: \n“Llama 3.2 is licensed under the Llama 3.2 Community License, Copyright © Meta Platforms,\nInc. All Rights Reserved.”"
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Compensate for Damages": {
+      "items": [
+        {
+          "original": "You will indemnify and hold harmless Meta from and against any claim by any third\n    party arising out of or related to your use or distribution of the Llama Materials.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You can choose to indemnify and hold harmless Meta from and against any claim by any third party \narising out of or related to your use or distribution of the Llama Materials."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You cannot indemnify or hold harmless Meta from and against any claim by any third party \narising out of or related to your use or distribution of the Llama Materials."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    }
+  },
+  "llama3.3.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": "You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Meta’s intellectual property or other rights owned by Meta embodied in the Llama Materials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the Llama Materials.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are not granted the right to distribute the Llama Materials under any non-exclusive, worldwide, non-transferable, or royalty-free limited license under Meta's intellectual property or other rights."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You are required to distribute the Llama Materials under the non-exclusive, worldwide, non-transferable, and royalty-free limited license under Meta's intellectual property or other rights."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Modify": {
+      "items": [
+        {
+          "original": "You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Meta’s intellectual property or other rights owned by Meta embodied in the Llama Materials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the Llama Materials.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are not granted the right to make modifications to the Llama Materials under any non-exclusive, worldwide, non-transferable, or royalty-free limited license under Meta's intellectual property or other rights."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You are required to make modifications to the Llama Materials under the non-exclusive, worldwide, non-transferable, and royalty-free limited license under Meta's intellectual property or other rights."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "IN NO EVENT WILL META OR ITS AFFILIATES BE LIABLE UNDER ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT, NEGLIGENCE, PRODUCTS LIABILITY, OR OTHERWISE, ARISING OUT OF THIS AGREEMENT, FOR ANY LOST PROFITS OR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL, EXEMPLARY OR PUNITIVE DAMAGES, EVEN IF META OR ITS AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF ANY OF THE FOREGOING.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "Meta or its affiliates can be held liable under any theory of liability for any lost profits or any indirect, special, consequential, incidental, exemplary, or punitive damages arising out of this agreement."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Meta or its affiliates must be held liable under any theory of liability for any lost profits or any indirect, special, consequential, incidental, exemplary, or punitive damages arising out of this agreement."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Use Trademark": {
+      "items": [
+        {
+          "original": "No trademark licenses are granted under this Agreement, and in connection with the Llama Materials, neither Meta nor Licensee may use any name or mark owned by or associated with the other or any of its affiliates, except as required for reasonable and customary use in describing and redistributing the Llama Materials or as set forth in this Section 5(a).",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "Trademarks can be used under this Agreement, and in connection with the Llama Materials, either Meta or Licensee may use any name or mark owned by or associated with the other or any of its affiliates, provided that reasonable and customary use in describing and redistributing the Llama Materials is followed, as set forth in this Section 5(a)."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Trademarks must be used under this Agreement, and in connection with the Llama Materials, either Meta or Licensee is required to use any name or mark owned by or associated with the other or any of its affiliates, as set forth in this Section 5(a)."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Include License": {
+      "items": [
+        {
+          "original": "provide a copy of this Agreement with any such Llama Materials;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may provide a copy of this Agreement with any such Llama Materials, but it is not mandatory."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You cannot provide a copy of this Agreement with any such Llama Materials."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Include Copyright": {
+      "items": [
+        {
+          "original": "You must retain in all copies of the Llama Materials that you distribute the following attribution notice within a “Notice” text file distributed as a part of such copies: “Llama 3.3 is licensed under the Llama 3.3 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.”",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may retain in all copies of the Llama Materials that you distribute the following attribution notice, but it is not required: “Llama 3.3 is licensed under the Llama 3.3 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.”"
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You cannot retain in all copies of the Llama Materials that you distribute the following attribution notice: “Llama 3.3 is licensed under the Llama 3.3 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.”"
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Include Notice": {
+      "items": [
+        {
+          "original": "You must retain in all copies of the Llama Materials that you distribute the following attribution notice within a “Notice” text file distributed as a part of such copies: “Llama 3.3 is licensed under the Llama 3.3 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.”",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may retain in all copies of the Llama Materials that you distribute the following notice, but it is not mandatory: “Llama 3.3 is licensed under the Llama 3.3 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.”"
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You cannot retain in all copies of the Llama Materials that you distribute the following notice: “Llama 3.3 is licensed under the Llama 3.3 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved.”"
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    }
+  },
+  "llama3.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": "You are granted a non-exclusive, worldwide, non-transferable and royalty-free\nlimited license under Meta’s intellectual property or other rights owned by Meta embodied in the Llama\nMaterials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the\nLlama Materials.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Meta’s intellectual property or other rights owned by Meta embodied in the Llama Materials that does not permit you to distribute the Llama Materials."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Meta’s intellectual property or other rights owned by Meta embodied in the Llama Materials, by which you are required to distribute the Llama Materials."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Modify": {
+      "items": [
+        {
+          "original": "You are granted a non-exclusive, worldwide, non-transferable and royalty-free\nlimited license under Meta’s intellectual property or other rights owned by Meta embodied in the Llama\nMaterials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the\nLlama Materials.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Meta’s intellectual property or other rights owned by Meta embodied in the Llama Materials that does not permit you to make modifications to the Llama Materials."
+            },
+            {
+              "attitude": "must",
+              "sentence": "You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Meta’s intellectual property or other rights owned by Meta embodied in the Llama Materials, by which you are required to make modifications to the Llama Materials."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    }
+  },
+  "openrail++.txt": {
+    "Distribute": {
+      "items": [
+        {
+          "original": "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, and distribute the Complementary Material, the Model, and Derivatives of the Model.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, but not to distribute the Complementary Material, the Model, and Derivatives of the Model."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby mandates that You distribute the Complementary Material, the Model, and Derivatives of the Model under a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Sublicense": {
+      "items": [
+        {
+          "original": "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, and distribute the Complementary Material, the Model, and Derivatives of the Model.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, and distribute the Complementary Material, the Model, and Derivatives of the Model, but not to sublicense."
+            },
+            {
+              "attitude": "must",
+              "sentence": "Subject to the terms and conditions of this License, each Contributor hereby requires You to sublicense the Complementary Material, the Model, and Derivatives of the Model under a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Place Warranty": {
+      "items": [
+        {
+          "original": "While redistributing the Model, Derivatives of the Model and the Complementary Material thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License.",
+          "modified": [
+            {
+              "attitude": "cannot",
+              "sentence": "While redistributing the Model, Derivatives of the Model and the Complementary Material thereof, You are not permitted to offer, or charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License."
+            },
+            {
+              "attitude": "must",
+              "sentence": "While redistributing the Model, Derivatives of the Model and the Complementary Material thereof, You must offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License."
+            }
+          ]
+        }
+      ],
+      "attitude": "can"
+    },
+    "Hold Liable": {
+      "items": [
+        {
+          "original": "In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Model and the Complementary Material (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "In certain events under specified legal theories, whether in tort (including negligence), contract, or otherwise, where required by applicable law or agreed to in writing, any Contributor may be liable to You for damages, including direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Model and the Complementary Material."
+            },
+            {
+              "attitude": "must",
+              "sentence": "In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law or agreed to in writing, any Contributor must be held liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Model and the Complementary Material."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Use Trademark": {
+      "items": [
+        {
+          "original": "Nothing in this License permits You to make use of Licensors’ trademarks, trade names, logos or to otherwise suggest endorsement or misrepresent the relationship between the parties;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "This License permits You to make use of Licensors’ trademarks, trade names, logos under conditions where endorsement or misrepresentation of the relationship between the parties does not occur."
+            },
+            {
+              "attitude": "must",
+              "sentence": "This License requires You to make use of Licensors’ trademarks, trade names, logos in a manner that does not suggest endorsement or misrepresent the relationship between the parties."
+            }
+          ]
+        }
+      ],
+      "attitude": "cannot"
+    },
+    "Include Copyright": {
+      "items": [
+        {
+          "original": "You must retain all copyright, patent, trademark, and attribution notices excluding those notices that do not pertain to any part of the Model, Derivatives of the Model",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may retain copyright, patent, trademark, and attribution notices as you see fit, excluding those that do not pertain to any part of the Model, Derivatives of the Model."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You are not permitted to retain any copyright, patent, trademark, and attribution notices, excluding those that do not pertain to any part of the Model, Derivatives of the Model."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "Include License": {
+      "items": [
+        {
+          "original": "You must give any Third Party recipients of the Model or Derivatives of the Model a copy of this License;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may, at your discretion, provide any Third Party recipients of the Model or Derivatives of the Model a copy of this License."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You cannot provide any Third Party recipients of the Model or Derivatives of the Model a copy of this License."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    },
+    "State Changes": {
+      "items": [
+        {
+          "original": "You must cause any modified files to carry prominent notices stating that You changed the files;",
+          "modified": [
+            {
+              "attitude": "can",
+              "sentence": "You may choose to cause any modified files to carry prominent notices stating that You changed the files."
+            },
+            {
+              "attitude": "cannot",
+              "sentence": "You are not allowed to modify files to carry notices that indicate changes were made to the files."
+            }
+          ]
+        }
+      ],
+      "attitude": "must"
+    }
+  }
+}

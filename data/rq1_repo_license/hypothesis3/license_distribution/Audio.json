@@ -1,0 +1,26 @@
+[
+    {
+    "labels": [
+        "mit",
+        "no license",
+        "apache-2.0",
+        "cc-by-nc-4.0",
+        "cc-by-4.0",
+        "cc-by-sa-4.0",
+        "other",
+        "bsd-3-clause",
+        "cc-by-nc-sa-4.0"
+    ],
+    "values": [
+        28,
+        25,
+        89,
+        18,
+        4,
+        3,
+        2,
+        1,
+        1
+    ]
+}
+]

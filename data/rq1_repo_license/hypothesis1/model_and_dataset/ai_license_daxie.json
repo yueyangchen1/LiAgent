@@ -1,0 +1,17 @@
+{
+  "apple-amlr": "Apple AMLR",
+  "apple-ascl": "Apple ASCL",
+  "bigcode-openrail-m": "BigCode Open RAIL-M",
+  "bigscience-bloom-rail-1.0": "BigScience RAIL License v1.0",
+  "bigscience-openrail-m": "BigScience OpenRAIL-M",
+  "cdla-permissive-2.0": "CDLA-Permissive-2.0",
+  "creativeml-openrail-m": "CreativeML Open RAIL-M",
+  "deepfloyd-if-license": "DEEPFLOYD IF LICENSE AGREEMENT",
+  "gemma": "Gemma",
+  "llama2": "Llama2",
+  "llama3": "Llama3",
+  "llama3.1": "Llama3.1",
+  "llama3.2": "Llama3.2",
+  "openrail": "OpenRAIL",
+  "openrail++": "OpenRAIL++"
+}

@@ -1,0 +1,224 @@
+BestWishYsh/ConsisID-preview -> THUDM/CogVideoX-5b
+Qwen/Qwen2.5-14B-Instruct -> Qwen/Qwen2.5-14B
+nickprock/xlm-roberta-base-banking77-classification -> FacebookAI/xlm-roberta-base
+HighCWu/ControlLoRA -> stable-diffusion-v1-5/stable-diffusion-v1-5
+legraphista/Qwen2-1.5B-Instruct-IMat-GGUF -> Qwen/Qwen2-1.5B-Instruct
+cross-encoder/ms-marco-MiniLM-L12-v2 -> microsoft/MiniLM-L12-H384-uncased
+deepset/roberta-large-squad2 -> FacebookAI/roberta-large
+protectai/distilroberta-base-rejection-v1 -> distilbert/distilroberta-base
+TIGER-Lab/Mantis-8B-Idefics2 -> HuggingFaceM4/idefics2-8b
+TheBloke/TinyLlama-1.1B-Chat-v0.3-AWQ -> TinyLlama/TinyLlama-1.1B-Chat-v0.3
+latent-consistency/lcm-ssd-1b -> stabilityai/stable-diffusion-xl-base-1.0
+usvsnsp/code-vs-nl -> distilbert/distilbert-base-uncased
+Qwen/QVQ-72B-Preview -> Qwen/Qwen2-VL-72B
+google/gemma-2-27b-it -> google/gemma-2-27b
+hexgrad/Kokoro-82M -> yl4579/StyleTTS2-LJSpeech
+cross-encoder/nli-roberta-base -> FacebookAI/roberta-base
+upstage/SOLAR-10.7B-Instruct-v1.0 -> upstage/SOLAR-10.7B-v1.0
+TheBloke/Llama-2-7B-32K-Instruct-GGUF -> togethercomputer/Llama-2-7B-32K-Instruct
+KoichiYasuoka/roberta-base-thai-spm-upos -> KoichiYasuoka/roberta-base-thai-spm
+TheBloke/Starling-LM-7B-alpha-GGUF -> berkeley-nest/Starling-LM-7B-alpha
+deepset/deberta-v3-base-injection -> microsoft/deberta-v3-base
+FinGPT/fingpt-forecaster_dow30_llama2-7b_lora -> meta-llama/Llama-2-7b-chat-hf
+FuseAI/FuseChat-7B-VaRM -> openchat/openchat_3.5
+royleibov/clip-vit-base-patch16-ZipNN-Compressed -> openai/clip-vit-base-patch16
+diffusers/stable-diffusion-xl-1.0-inpainting-0.1 -> stabilityai/stable-diffusion-xl-base-1.0
+s-nlp/roberta_toxicity_classifier -> FacebookAI/roberta-large
+Qwen/Qwen2.5-Coder-7B -> Qwen/Qwen2.5-7B
+openai/whisper-large-v3-turbo -> openai/whisper-large-v3
+tomaarsen/span-marker-mbert-base-multinerd -> google-bert/bert-base-multilingual-cased
+lllyasviel/sd-controlnet-mlsd -> stable-diffusion-v1-5/stable-diffusion-v1-5
+openbmb/MiniCPM-V-2_6-gguf -> openbmb/MiniCPM-V-2_6
+unsloth/Llama-3.2-3B -> meta-llama/Llama-3.2-3B
+meta-llama/Llama-3.1-405B-Instruct -> meta-llama/Llama-3.1-405B
+vectara/hallucination_evaluation_model -> google/flan-t5-base
+rinna/japanese-gpt-neox-3.6b-instruction-sft -> rinna/japanese-gpt-neox-3.6b
+Franklin0314/visual-llm -> THUDM/chatglm3-6b
+TheBloke/Mistral-7B-Instruct-v0.2-GGUF -> mistralai/Mistral-7B-Instruct-v0.2
+TencentARC/t2i-adapter-canny-sdxl-1.0 -> stabilityai/stable-diffusion-xl-base-1.0
+numind/NuExtract -> microsoft/Phi-3-mini-4k-instruct
+mistralai/Mixtral-8x7B-Instruct-v0.1 -> mistralai/Mixtral-8x7B-v0.1
+dstefa/roberta-base_topic_classification_nyt_news -> FacebookAI/roberta-base
+TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF -> TinyLlama/TinyLlama-1.1B-Chat-v1.0
+city96/t5-v1_1-xxl-encoder-gguf -> google/t5-v1_1-xxl
+HuggingFaceH4/zephyr-7b-alpha -> mistralai/Mistral-7B-v0.1
+TheBloke/Llama-2-7B-Chat-GPTQ -> meta-llama/Llama-2-7b-chat-hf
+s-nlp/xlmr_formality_classifier -> FacebookAI/xlm-roberta-base
+akshatshaw/mistral-interview-finetune -> mistralai/Mistral-7B-Instruct-v0.2
+papluca/xlm-roberta-base-language-detection -> FacebookAI/xlm-roberta-base
+s-nlp/russian_toxicity_classifier -> DeepPavlov/rubert-base-cased-conversational
+TencentARC/t2i-adapter-sketch-sdxl-1.0 -> stabilityai/stable-diffusion-xl-base-1.0
+MohamedRashad/arabic-base-nougat -> facebook/nougat-base
+epfl-llm/meditron-7b -> meta-llama/Llama-2-7b
+lllyasviel/control_v11f1p_sd15_depth -> stable-diffusion-v1-5/stable-diffusion-v1-5
+mistralai/Mistral-7B-Instruct-v0.1 -> mistralai/Mistral-7B-v0.1
+gastonduault/music-classifier -> facebook/wav2vec2-large
+protectai/deberta-v3-base-prompt-injection -> microsoft/deberta-v3-base
+TencentARC/t2iadapter_seg_sd14v1 -> stable-diffusion-v1-5/stable-diffusion-v1-5
+AnnaWegmann/Style-Embedding -> FacebookAI/roberta-base
+XLabs-AI/flux-ip-adapter-v2 -> black-forest-labs/FLUX.1-dev
+Qwen/Qwen2-7B-Instruct -> Qwen/Qwen2-7B
+hf-internal-testing/tiny-bert-h5 -> hf-internal-testing/tiny-bert-pt-safetensors
+Qwen/Qwen2.5-1.5B-Instruct -> Qwen/Qwen2.5-1.5B
+lllyasviel/control_v11p_sd15_openpose -> stable-diffusion-v1-5/stable-diffusion-v1-5
+deepset/roberta-base-squad2 -> FacebookAI/roberta-base
+cmarkea/distilcamembert-base-nli -> cmarkea/distilcamembert-base
+openbmb/MiniCPM-V-2_6-int4 -> openbmb/MiniCPM-V-2_6
+yanolja/EEVE-Korean-10.8B-v1.0 -> upstage/SOLAR-10.7B-v1.0
+Zyphra/Zamba2-7B-Instruct -> Zyphra/Zamba2-2.7B
+latent-consistency/lcm-lora-sdxl -> stabilityai/stable-diffusion-xl-base-1.0
+cmarkea/distilcamembert-base-qa -> cmarkea/distilcamembert-base
+Qwen/Qwen2-VL-72B-Instruct -> Qwen/Qwen2-VL-72B
+wolfram/miquliz-120b-v2.0 -> lizpreciatior/lzlv_70b_fp16_hf
+wolfram/miquliz-120b-v2.0 -> 152334H/miqu-1-70b-sf
+speakleash/Bielik-11B-v2.2-Instruct -> speakleash/Bielik-11B-v2
+MoritzLaurer/deberta-v3-xsmall-zeroshot-v1.1-all-33 -> microsoft/deberta-v3-xsmall
+hyp1231/blair-roberta-base -> FacebookAI/roberta-base
+meta-llama/Llama-3.1-70B-Instruct -> meta-llama/Llama-3.1-70B
+TheBloke/deepseek-coder-1.3b-base-GGUF -> deepseek-ai/deepseek-coder-1.3b-base
+Qwen/Qwen2.5-Coder-32B -> Qwen/Qwen2.5-32B
+IDEA-Research/ChatRex-7B -> laion/CLIP-convnext_large_d.laion2B-s26B-b102K-augreg
+diffusers/controlnet-canny-sdxl-1.0-small -> stabilityai/stable-diffusion-xl-base-1.0
+Qwen/Qwen2.5-7B-Instruct -> Qwen/Qwen2.5-7B
+lllyasviel/control_v11p_sd15_scribble -> stable-diffusion-v1-5/stable-diffusion-v1-5
+hf-audio/wav2vec2-bert-CV16-en -> ylacombe/w2v-bert-2.0
+lllyasviel/control_v11p_sd15_seg -> stable-diffusion-v1-5/stable-diffusion-v1-5
+CMLM/ZhongJing-2-1_8b -> Qwen/Qwen1.5-1.8B-Chat
+tdc/Geneformer -> ctheodoris/Geneformer
+cmarkea/distilcamembert-base-sentiment -> cmarkea/distilcamembert-base
+NousResearch/Hermes-2-Pro-Mistral-7B -> mistralai/Mistral-7B-v0.1
+HuggingFaceH4/zephyr-7b-beta -> mistralai/Mistral-7B-v0.1
+antonjaragon/emotions_6_classes_small -> facebook/wav2vec2-base
+rgres/Seg2Sat-sd-controlnet -> stabilityai/stable-diffusion-2-1-base
+onnx-community/whisper-tiny.en_timestamped -> openai/whisper-tiny.en
+Qwen/Qwen2-VL-7B-Instruct -> Qwen/Qwen2-VL-7B
+MaLA-LM/mala-500-10b-v2 -> meta-llama/Llama-2-7b-hf
+nllg/ultrasketch -> BleachNick/SD3_UltraEdit_w_mask
+cross-encoder/nli-deberta-v3-small -> microsoft/deberta-v3-small
+mrdbourke/learn_hf_food_not_food_text_classifier-distilbert-base-uncased -> distilbert/distilbert-base-uncased
+TheBloke/Mistral-7B-Instruct-v0.2-AWQ -> mistralai/Mistral-7B-Instruct-v0.2
+protectai/deberta-v3-base-prompt-injection-v2 -> microsoft/deberta-v3-base
+latent-consistency/lcm-sdxl -> stabilityai/stable-diffusion-xl-base-1.0
+google/gemma-2-9b-it -> google/gemma-2-9b
+HuggingFaceH4/mistral-7b-sft-beta -> mistralai/Mistral-7B-v0.1
+TheBloke/Llama-2-7B-Chat-GGUF -> meta-llama/Llama-2-7b-chat-hf
+sentence-transformers-testing/all-nli-bert-tiny-dense -> prajjwal1/bert-tiny
+nielsr/layoutlmv3-finetuned-funsd -> microsoft/layoutlmv3-base
+CrucibleAI/ControlNetMediaPipeFace -> stabilityai/stable-diffusion-2-1-base
+allenai/MolmoE-1B-0924 -> allenai/OLMoE-1B-7B-0924
+lllyasviel/sd-controlnet-hed -> stable-diffusion-v1-5/stable-diffusion-v1-5
+lllyasviel/sd-controlnet-seg -> stable-diffusion-v1-5/stable-diffusion-v1-5
+DeSTA-ntu/DeSTA2-8B-beta -> meta-llama/Meta-Llama-3-8B-Instruct
+Qwen/Qwen2.5-32B-Instruct -> Qwen/Qwen2.5-32B
+xiaozaa/cat-tryoff-flux -> black-forest-labs/FLUX.1-Fill-dev
+TencentARC/t2i-adapter-lineart-sdxl-1.0 -> stabilityai/stable-diffusion-xl-base-1.0
+nkasmanoff/tool-bert2 -> google-bert/bert-base-uncased
+tomaarsen/span-marker-bert-tiny-fewnerd-coarse-super -> prajjwal1/bert-tiny
+dima806/man_woman_face_image_detection -> google/vit-base-patch16-224-in21k
+KoichiYasuoka/deberta-base-thai-ud-head -> KoichiYasuoka/deberta-base-thai
+city96/FLUX.1-dev-gguf -> black-forest-labs/FLUX.1-dev
+lllyasviel/control_v11e_sd15_shuffle -> stable-diffusion-v1-5/stable-diffusion-v1-5
+tdc/scGPT -> MohamedMabrouk/scGPT
+lllyasviel/sd-controlnet-openpose -> stable-diffusion-v1-5/stable-diffusion-v1-5
+songkey/hello_group_facemodel -> stable-diffusion-v1-5/stable-diffusion-v1-5
+thibaud/controlnet-openpose-sdxl-1.0 -> stabilityai/stable-diffusion-xl-base-1.0
+LibrAI/longformer-action-ro -> allenai/longformer-base-4096
+CiaraRowles/TemporalNet -> stable-diffusion-v1-5/stable-diffusion-v1-5
+KoichiYasuoka/deberta-base-japanese-aozora-ud-head -> KoichiYasuoka/deberta-base-japanese-aozora
+lllyasviel/control_v11f1e_sd15_tile -> stable-diffusion-v1-5/stable-diffusion-v1-5
+xiaozaa/catvton-flux-beta -> black-forest-labs/FLUX.1-Fill-dev
+aisingapore/sea-lion-7b-instruct-research -> aisingapore/sea-lion-7b
+google/gemma-7b-it -> google/gemma-7b
+p1atdev/dart-v1-sft -> p1atdev/dart-v1-base
+lllyasviel/control_v11p_sd15_inpaint -> stable-diffusion-v1-5/stable-diffusion-v1-5
+jbilcke-hf/sdxl-panorama -> stabilityai/stable-diffusion-xl-base-1.0
+diffusers/controlnet-canny-sdxl-1.0 -> stable-diffusion-v1-5/stable-diffusion-v1-5
+meta-llama/Meta-Llama-3-70B-Instruct -> meta-llama/Meta-Llama-3-70B
+sanchit-gandhi/whisper-medium-fleurs-lang-id -> openai/whisper-medium
+allenai/OLMoE-1B-7B-0924-SFT -> allenai/OLMoE-1B-7B-0924
+alefiury/wav2vec2-large-xlsr-53-gender-recognition-librispeech -> facebook/wav2vec2-xls-r-300m
+TahaDouaji/detr-doc-table-detection -> facebook/detr-resnet-50
+teknium/OpenHermes-2.5-Mistral-7B -> mistralai/Mistral-7B-v0.1
+Felladrin/Llama-160M-Chat-v1 -> JackFram/llama-160m
+deutsche-telekom/electra-base-de-squad2 -> german-nlp-group/electra-base-german-uncased
+segmind/tiny-sd -> SG161222/Realistic_Vision_V4.0_noVAE
+TheBloke/TinyLlama-1.1B-Chat-v0.3-GPTQ -> TinyLlama/TinyLlama-1.1B-Chat-v0.3
+MohamedRashad/arabic-small-nougat -> facebook/nougat-small
+alizaidi/lora-mt5-goud -> google/mt5-small
+cmarkea/distilcamembert-base-ner -> cmarkea/distilcamembert-base
+Qwen/Qwen2.5-0.5B-Instruct -> Qwen/Qwen2.5-0.5B
+meta-llama/Llama-3.1-8B-Instruct -> meta-llama/Llama-3.1-8B
+mistralai/Mistral-7B-Instruct-v0.3 -> mistralai/Mistral-7B-v0.3
+gmurro/bart-large-finetuned-filtered-spotify-podcast-summ -> facebook/bart-large-cnn
+meta-llama/Llama-Guard-3-8B -> meta-llama/Llama-3.1-8B
+InstantX/FLUX.1-dev-Controlnet-Canny -> black-forest-labs/FLUX.1-dev
+Qwen/Qwen2.5-Math-1.5B -> Qwen/Qwen2.5-1.5B
+TheBloke/Llama-2-7B-Chat-GGML -> meta-llama/Llama-2-7b-chat-hf
+leejet/FLUX.1-dev-gguf -> black-forest-labs/FLUX.1-dev
+Qwen/Qwen2.5-72B-Instruct -> Qwen/Qwen2.5-72B
+jasperai/flash-sd3 -> stabilityai/stable-diffusion-3-medium
+GuanjieChen/Skip-DiT -> Tencent-Hunyuan/HunyuanDiT
+Ransaka/whisper-tiny-sinhala-20k-8k-steps-v2 -> Ransaka/whisper-tiny-sinhala-20k-8k-steps
+ArmurAI/Pentest_AI -> mistralai/Mistral-7B-v0.1
+MaLA-LM/mala-500-10b-v1 -> meta-llama/Llama-2-7b-hf
+diffusers/controlnet-depth-sdxl-1.0-small -> stabilityai/stable-diffusion-xl-base-1.0
+diffusers/controlnet-depth-sdxl-1.0 -> stabilityai/stable-diffusion-xl-base-1.0
+Xenova/starcoderbase-1b -> bigcode/starcoderbase-1b
+lllyasviel/sd-controlnet-depth -> stable-diffusion-v1-5/stable-diffusion-v1-5
+Qwen/Qwen2-0.5B-Instruct -> Qwen/Qwen2-0.5B
+lllyasviel/control_v11p_sd15_normalbae -> stable-diffusion-v1-5/stable-diffusion-v1-5
+lllyasviel/sd-controlnet-canny -> stable-diffusion-v1-5/stable-diffusion-v1-5
+gokaygokay/Flux-Prompt-Enhance -> google-t5/t5-base
+Qwen/Qwen2-VL-2B-Instruct -> Qwen/Qwen2-VL-2B
+AsphyXIA/baarat-MTH -> meta-llama/Llama-2-7b-hf
+lllyasviel/sd-controlnet-normal -> stable-diffusion-v1-5/stable-diffusion-v1-5
+NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO -> mistralai/Mixtral-8x7B-v0.1
+ibm-nasa-geospatial/Prithvi-WxC-1.0-2300m-gravity-wave-parameterization -> ibm-nasa-geospatial/Prithvi-WxC-1.0-2300M
+isaacus/emubert -> FacebookAI/roberta-base
+lllyasviel/sd-controlnet-scribble -> stable-diffusion-v1-5/stable-diffusion-v1-5
+RunDiffusion/Juggernaut-XL-v9 -> stabilityai/stable-diffusion-xl-base-1.0
+cross-encoder/ms-marco-TinyBERT-L2-v2 -> nreimers/BERT-Tiny_L-2_H-128_A-2
+google/gemma-2-2b-it -> google/gemma-2-2b
+sentence-transformers-testing/stsb-bert-tiny-lora -> sentence-transformers-testing/stsb-bert-tiny-safetensors
+Samsung/TinyClick -> microsoft/Florence-2-base
+tomaarsen/span-marker-bert-tiny-conll03 -> prajjwal1/bert-tiny
+xiaozaa/catvton-flux-alpha -> black-forest-labs/FLUX.1-Fill-dev
+VanekPetr/flan-t5-base-ecommerce-text-classification -> google/flan-t5-base
+lllyasviel/control_v11p_sd15_canny -> stable-diffusion-v1-5/stable-diffusion-v1-5
+hf-internal-testing/tiny-controlnet -> hf-internal-testing/tiny-stable-diffusion-pipe-no-safety
+latent-consistency/lcm-lora-sdv1-5 -> stable-diffusion-v1-5/stable-diffusion-v1-5
+cross-encoder/nli-MiniLM2-L6-H768 -> nreimers/MiniLMv2-L6-H768-distilled-from-RoBERTa-Large
+arcee-ai/Llama-3.1-SuperNova-Lite -> meta-llama/Llama-3.1-8B-Instruct -> meta-llama/Llama-3.1-8B
+xiuyul/mamba-2.8b-zephyr -> xiuyul/mamba-2.8b-ultrachat -> state-spaces/mamba-2.8b-slimpj
+cross-encoder/ms-marco-MiniLM-L6-v2 -> cross-encoder/ms-marco-MiniLM-L12-v2 -> microsoft/MiniLM-L12-H384-uncased
+Exscientia/IgBert -> Exscientia/IgBert_unpaired -> Rostlab/prot_bert_bfd
+EvilEngine/badhandv4 -> EvilEngine/realcartoon3d_v17 -> John6666/am-i-real-v45-sd15
+qfq/Llama-3.1-8B-Instruct-EI1-2ep-sft -> meta-llama/Llama-3.1-8B-Instruct -> meta-llama/Llama-3.1-8B
+akameswa/lcm-lora-tiny-sd -> segmind/tiny-sd -> SG161222/Realistic_Vision_V4.0_noVAE
+Qwen/Qwen2.5-Coder-7B-Instruct -> Qwen/Qwen2.5-Coder-7B -> Qwen/Qwen2.5-7B
+lmstudio-community/Meta-Llama-3.1-8B-Instruct-GGUF -> meta-llama/Llama-3.1-8B-Instruct -> meta-llama/Llama-3.1-8B
+Qwen/Qwen2.5-Coder-32B-Instruct -> Qwen/Qwen2.5-Coder-32B -> Qwen/Qwen2.5-32B
+TheBloke/openchat-3.5-0106-GGUF -> openchat/openchat-3.5-0106 -> mistralai/Mistral-7B-v0.1
+cagliostrolab/animagine-xl-3.0 -> Linaqruf/animagine-xl-2.0 -> stabilityai/stable-diffusion-xl-base-1.0
+OpenGVLab/InternVL2_5-4B -> Qwen/Qwen2.5-3B-Instruct -> Qwen/Qwen2.5-3B
+OpenGVLab/InternVL2_5-4B -> OpenGVLab/InternViT-300M-448px-V2_5 -> OpenGVLab/InternViT-300M-448px
+rhymes-ai/Aria -> rhymes-ai/Aria-Base-64K -> rhymes-ai/Aria-Base-8K
+StephanAkkerman/FinTwitBERT-sentiment -> StephanAkkerman/FinTwitBERT -> yiyanghkust/finbert-pretrain
+allenai/OLMoE-1B-7B-0924-Instruct -> allenai/OLMoE-1B-7B-0924-SFT -> allenai/OLMoE-1B-7B-0924
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4 -> Qwen/Qwen2-VL-2B-Instruct -> Qwen/Qwen2-VL-2B
+KoichiYasuoka/bert-base-japanese-upos -> KoichiYasuoka/bert-base-japanese-char-extended -> tohoku-nlp/bert-base-japanese-char-v2
+OpenGVLab/InternVL-Chat-V1-5-AWQ -> OpenGVLab/InternVL-Chat-V1-5 -> internlm/internlm2-chat-20b
+Qwen/QwQ-32B-Preview -> Qwen/Qwen2.5-32B-Instruct -> Qwen/Qwen2.5-32B
+naver-ai/USDM-DailyTalk -> naver-ai/USTM -> mistralai/Mistral-7B-v0.1
+tartuNLP/EstBERT_NER -> tartuNLP/EstBERT -> google-bert/bert-base-cased
+KoichiYasuoka/bert-large-japanese-wikipedia-ud-head -> KoichiYasuoka/bert-large-japanese-char-extended -> tohoku-nlp/bert-large-japanese-char
+TheBloke/OpenHermes-2.5-Mistral-7B-GPTQ -> teknium/OpenHermes-2.5-Mistral-7B -> mistralai/Mistral-7B-v0.1
+EvilEngine/add_detail -> EvilEngine/realcartoon3d_v17 -> John6666/am-i-real-v45-sd15
+WillHeld/DiVA-llama-3-v0-8b -> meta-llama/Llama-3.1-8B-Instruct -> meta-llama/Llama-3.1-8B
+unsloth/Meta-Llama-3.1-8B-Instruct -> meta-llama/Llama-3.1-8B-Instruct -> meta-llama/Llama-3.1-8B
+lumolabs-ai/Lumo-70B-Instruct -> meta-llama/Llama-3.3-70B-Instruct -> meta-llama/Llama-3.1-70B
+OpenGVLab/InternViT-6B-448px-V1-5 -> OpenGVLab/InternViT-6B-448px-V1-2 -> OpenGVLab/InternViT-6B-448px-V1-0 -> OpenGVLab/InternViT-6B-224px
+cagliostrolab/animagine-xl-3.1 -> cagliostrolab/animagine-xl-3.0 -> Linaqruf/animagine-xl-2.0 -> stabilityai/stable-diffusion-xl-base-1.0
+Vasanth/zephyr-support-chatbot -> TheBloke/zephyr-7B-alpha-GPTQ -> HuggingFaceH4/zephyr-7b-alpha -> mistralai/Mistral-7B-v0.1
+TheBloke/neural-chat-7B-v3-3-GGUF -> Intel/neural-chat-7b-v3-3 -> Intel/neural-chat-7b-v3-1 -> mistralai/Mistral-7B-v0.1
+OpenGVLab/InternVL-Chat-V1-5-AWQ -> OpenGVLab/InternVL-Chat-V1-5 -> OpenGVLab/InternViT-6B-448px-V1-5 -> OpenGVLab/InternViT-6B-448px-V1-2 -> OpenGVLab/InternViT-6B-448px-V1-0 -> OpenGVLab/InternViT-6B-224px

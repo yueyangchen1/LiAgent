@@ -1,0 +1,18 @@
+# 模型配置
+models:
+  gpt-4o:
+    api_key: ""
+    base_url: "https://api.openai.com/v1"
+
+  gpt-4o-mini:
+    api_key: ""
+    base_url: "https://api.openai.com/v1"
+
+  qwen-max:
+    api_key: ""
+    base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+
+  deepseek-chat:
+    api_key: ""
+    base_url: "https://api.deepseek.com"
+

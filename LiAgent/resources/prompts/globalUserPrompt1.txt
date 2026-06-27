@@ -1,0 +1,5 @@
+
+            Analyze the following license text and complete the tasks below:
+
+            1. The following is a list of key legal terms and their meanings. For each term, only consider the provided interpretation when analyzing the license text. Do not over-interpret or infer meanings beyond what is explicitly provided:
+

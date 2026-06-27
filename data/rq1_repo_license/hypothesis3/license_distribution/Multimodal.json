@@ -1,0 +1,30 @@
+[
+    {
+    "labels": [
+        "apache-2.0",
+        "bsd-3-clause",
+        "no license",
+        "other",
+        "gemma",
+        "mit",
+        "llama2",
+        "llama3",
+        "llama3.2",
+        "cc-by-nc-4.0",
+        "cc-by-sa-4.0"
+    ],
+    "values": [
+        30,
+        2,
+        23,
+        9,
+        1,
+        22,
+        6,
+        1,
+        1,
+        2,
+        1
+    ]
+}
+]

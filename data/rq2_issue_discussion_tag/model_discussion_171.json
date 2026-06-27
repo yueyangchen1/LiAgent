@@ -1,0 +1,2005 @@
+{
+  "models": [
+    {
+      "model_name": "meta-llama/Llama-3.2-1B",
+      "created_at": "2024-09-18T15:03:14Z",
+      "discussions": [
+        {
+          "title": "License?",
+          "number": 1,
+          "url": "https://huggingface.co/meta-llama/Llama-3.2-1B/discussions/1",
+          "created_at": "2024-09-20T23:32:45Z",
+          "closed_at": "2024-09-21T10:05:38Z"
+        }
+      ]
+    },
+    {
+      "model_name": "stabilityai/stable-diffusion-xl-base-1.0",
+      "created_at": "2023-07-25T13:25:51Z",
+      "discussions": [
+        {
+          "title": "License, tags and diffusers updates",
+          "number": 2,
+          "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/discussions/2",
+          "created_at": "2023-07-26T11:55:21Z",
+          "closed_at": "2023-07-26T12:56:24Z"
+        },
+        {
+          "title": "license ",
+          "number": 12,
+          "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/discussions/12",
+          "created_at": "2023-07-27T01:51:25Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "microsoft/layoutlmv3-base",
+      "created_at": "2022-04-18T06:53:05Z",
+      "discussions": [
+        {
+          "title": "Add license",
+          "number": 1,
+          "url": "https://huggingface.co/microsoft/layoutlmv3-base/discussions/1",
+          "created_at": "2022-07-07T07:02:28Z",
+          "closed_at": ""
+        },
+        {
+          "title": "Update license and citation.",
+          "number": 4,
+          "url": "https://huggingface.co/microsoft/layoutlmv3-base/discussions/4",
+          "created_at": "2022-09-14T13:45:35Z",
+          "closed_at": "2022-09-14T14:21:49Z"
+        }
+      ]
+    },
+    {
+      "model_name": "dslim/bert-base-NER",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "License text  is not available",
+          "number": 12,
+          "url": "https://huggingface.co/dslim/bert-base-NER/discussions/12",
+          "created_at": "2023-08-21T15:52:39Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "WizardLMTeam/WizardCoder-15B-V1.0",
+      "created_at": "2023-06-14T10:43:19Z",
+      "discussions": [
+        {
+          "title": "update license",
+          "number": 12,
+          "url": "https://huggingface.co/WizardLMTeam/WizardCoder-15B-V1.0/discussions/12",
+          "created_at": "2023-07-01T07:41:39Z",
+          "closed_at": "2023-07-01T07:43:11Z"
+        }
+      ]
+    },
+    {
+      "model_name": "stabilityai/stable-cascade",
+      "created_at": "2024-02-06T17:58:47Z",
+      "discussions": [
+        {
+          "title": "Weights License?",
+          "number": 58,
+          "url": "https://huggingface.co/stabilityai/stable-cascade/discussions/58",
+          "created_at": "2024-05-06T09:14:03Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "stabilityai/sdxl-turbo",
+      "created_at": "2023-11-27T15:19:11Z",
+      "discussions": [
+        {
+          "title": "Add license metadata",
+          "number": 9,
+          "url": "https://huggingface.co/stabilityai/sdxl-turbo/discussions/9",
+          "created_at": "2023-11-29T11:19:57Z",
+          "closed_at": "2023-12-01T16:48:31Z"
+        }
+      ]
+    },
+    {
+      "model_name": "allenai/longformer-large-4096",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "Dataset License",
+          "number": 5,
+          "url": "https://huggingface.co/allenai/longformer-large-4096/discussions/5",
+          "created_at": "2024-04-26T17:57:38Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "coqui/XTTS-v2",
+      "created_at": "2023-10-31T10:11:33Z",
+      "discussions": [
+        {
+          "title": "Price for a commercial license for an app?",
+          "number": 70,
+          "url": "https://huggingface.co/coqui/XTTS-v2/discussions/70",
+          "created_at": "2024-07-17T11:17:04Z",
+          "closed_at": ""
+        },
+        {
+          "title": "Change your restricted license and make it truly free software",
+          "number": 97,
+          "url": "https://huggingface.co/coqui/XTTS-v2/discussions/97",
+          "created_at": "2024-12-21T09:04:07Z",
+          "closed_at": ""
+        },
+        {
+          "title": "license for commerce",
+          "number": 51,
+          "url": "https://huggingface.co/coqui/XTTS-v2/discussions/51",
+          "created_at": "2024-04-16T19:31:52Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "microsoft/layoutlmv3-large",
+      "created_at": "2022-04-18T06:56:58Z",
+      "discussions": [
+        {
+          "title": "Update license and citation.",
+          "number": 2,
+          "url": "https://huggingface.co/microsoft/layoutlmv3-large/discussions/2",
+          "created_at": "2022-09-14T13:47:34Z",
+          "closed_at": "2022-09-14T14:21:43Z"
+        }
+      ]
+    },
+    {
+      "model_name": "meta-llama/Meta-Llama-3-8B",
+      "created_at": "2024-04-17T09:35:16Z",
+      "discussions": [
+        {
+          "title": "License application has not been approved",
+          "number": 40,
+          "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B/discussions/40",
+          "created_at": "2024-04-20T01:09:51Z",
+          "closed_at": "2024-04-20T01:18:05Z"
+        },
+        {
+          "title": "Change license from other to llama3",
+          "number": 121,
+          "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B/discussions/121",
+          "created_at": "2024-05-07T08:12:50Z",
+          "closed_at": "2024-05-13T09:35:49Z"
+        },
+        {
+          "title": "License and training data",
+          "number": 57,
+          "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B/discussions/57",
+          "created_at": "2024-04-23T12:00:59Z",
+          "closed_at": ""
+        },
+        {
+          "title": "License",
+          "number": 3,
+          "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B/discussions/3",
+          "created_at": "2024-04-18T16:44:44Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "hakurei/waifu-diffusion",
+      "created_at": "2022-08-30T02:28:33Z",
+      "discussions": [
+        {
+          "title": "Add explicit reference to the LICENSE",
+          "number": 1,
+          "url": "https://huggingface.co/hakurei/waifu-diffusion/discussions/1",
+          "created_at": "2022-09-08T16:37:21Z",
+          "closed_at": "2022-09-08T16:38:48Z"
+        }
+      ]
+    },
+    {
+      "model_name": "Qwen/Qwen2.5-72B-Instruct",
+      "created_at": "2024-09-16T11:56:31Z",
+      "discussions": [
+        {
+          "title": "Question about license",
+          "number": 13,
+          "url": "https://huggingface.co/Qwen/Qwen2.5-72B-Instruct/discussions/13",
+          "created_at": "2024-09-23T16:48:32Z",
+          "closed_at": "2024-09-26T16:15:23Z"
+        },
+        {
+          "title": "Question: Clarification on Qwen License Agreement Regarding Output Usage",
+          "number": 18,
+          "url": "https://huggingface.co/Qwen/Qwen2.5-72B-Instruct/discussions/18",
+          "created_at": "2024-10-09T12:11:37Z",
+          "closed_at": "2024-10-22T13:49:41Z"
+        }
+      ]
+    },
+    {
+      "model_name": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+      "created_at": "2022-03-15T01:21:58Z",
+      "discussions": [
+        {
+          "title": "license",
+          "number": 19,
+          "url": "https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest/discussions/19",
+          "created_at": "2024-03-12T17:11:55Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "Salesforce/codet5-base-multi-sum",
+      "created_at": "2022-03-02T23:29:04Z",
+      "discussions": [
+        {
+          "title": "Validate `license:` metadata",
+          "number": 1,
+          "url": "https://huggingface.co/Salesforce/codet5-base-multi-sum/discussions/1",
+          "created_at": "2022-06-30T19:25:06Z",
+          "closed_at": "2022-10-18T14:18:03Z"
+        }
+      ]
+    },
+    {
+      "model_name": "TheBloke/Llama-2-7B-Chat-GGML",
+      "created_at": "2023-07-18T17:38:15Z",
+      "discussions": [
+        {
+          "title": "Add precise license metadata as part of Hacktoberfest 2023",
+          "number": 32,
+          "url": "https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/discussions/32",
+          "created_at": "2023-10-27T19:15:54Z",
+          "closed_at": "2023-10-27T19:18:10Z"
+        },
+        {
+          "title": "License for commercial use",
+          "number": 7,
+          "url": "https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/discussions/7",
+          "created_at": "2023-07-23T15:45:30Z",
+          "closed_at": "2023-07-24T12:25:39Z"
+        }
+      ]
+    },
+    {
+      "model_name": "intfloat/e5-base-v2",
+      "created_at": "2023-05-19T07:21:14Z",
+      "discussions": [
+        {
+          "title": "License issue",
+          "number": 9,
+          "url": "https://huggingface.co/intfloat/e5-base-v2/discussions/9",
+          "created_at": "2023-08-08T07:58:22Z",
+          "closed_at": "2023-08-08T10:26:21Z"
+        }
+      ]
+    },
+    {
+      "model_name": "cagliostrolab/animagine-xl-3.0",
+      "created_at": "2023-11-23T03:57:11Z",
+      "discussions": [
+        {
+          "title": "Output license question",
+          "number": 6,
+          "url": "https://huggingface.co/cagliostrolab/animagine-xl-3.0/discussions/6",
+          "created_at": "2024-01-14T17:48:11Z",
+          "closed_at": "2024-01-15T04:47:34Z"
+        }
+      ]
+    },
+    {
+      "model_name": "Salesforce/blip2-opt-6.7b",
+      "created_at": "2023-02-07T14:34:39Z",
+      "discussions": [
+        {
+          "title": "License",
+          "number": 2,
+          "url": "https://huggingface.co/Salesforce/blip2-opt-6.7b/discussions/2",
+          "created_at": "2023-04-03T13:19:42Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "lmsys/fastchat-t5-3b-v1.0",
+      "created_at": "2023-04-27T23:48:43Z",
+      "discussions": [
+        {
+          "title": "License",
+          "number": 3,
+          "url": "https://huggingface.co/lmsys/fastchat-t5-3b-v1.0/discussions/3",
+          "created_at": "2023-05-13T09:29:36Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "black-forest-labs/FLUX.1-dev",
+      "created_at": "2024-07-31T21:13:44Z",
+      "discussions": [
+        {
+          "title": "Delete LICENSE.md",
+          "number": 90,
+          "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev/discussions/90",
+          "created_at": "2024-08-20T20:32:17Z",
+          "closed_at": ""
+        },
+        {
+          "title": "We need actual clarification on the License, as there's conflicting terms.",
+          "number": 136,
+          "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev/discussions/136",
+          "created_at": "2024-09-08T20:24:52Z",
+          "closed_at": ""
+        },
+        {
+          "title": "I'm using Fluxgym and the last line of code in he terminal before python stops working is - flux 1 dev non commercial license. What do i do?",
+          "number": 362,
+          "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev/discussions/362",
+          "created_at": "2024-12-29T22:30:56Z",
+          "closed_at": ""
+        },
+        {
+          "title": "commercial license link is broken",
+          "number": 2,
+          "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev/discussions/2",
+          "created_at": "2024-08-01T14:49:38Z",
+          "closed_at": "2024-10-23T14:28:39Z"
+        }
+      ]
+    },
+    {
+      "model_name": "google/gemma-7b-it",
+      "created_at": "2024-02-13T01:07:30Z",
+      "discussions": [
+        {
+          "title": "License and minor updates",
+          "number": 86,
+          "url": "https://huggingface.co/google/gemma-7b-it/discussions/86",
+          "created_at": "2024-04-04T15:02:20Z",
+          "closed_at": "2024-04-09T22:34:28Z"
+        }
+      ]
+    },
+    {
+      "model_name": "basel/ATTACK-BERT",
+      "created_at": "2023-04-14T21:07:49Z",
+      "discussions": [
+        {
+          "title": "Add license to this model",
+          "number": 2,
+          "url": "https://huggingface.co/basel/ATTACK-BERT/discussions/2",
+          "created_at": "2024-04-10T12:13:14Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "openai/clip-vit-large-patch14-336",
+      "created_at": "2022-04-22T14:57:43Z",
+      "discussions": [
+        {
+          "title": "What is the license?",
+          "number": 10,
+          "url": "https://huggingface.co/openai/clip-vit-large-patch14-336/discussions/10",
+          "created_at": "2024-03-18T03:39:58Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "yiyanghkust/finbert-fls",
+      "created_at": "2022-05-12T01:33:03Z",
+      "discussions": [
+        {
+          "title": "Add License ?",
+          "number": 4,
+          "url": "https://huggingface.co/yiyanghkust/finbert-fls/discussions/4",
+          "created_at": "2024-10-16T17:40:34Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "tiiuae/falcon-40b-instruct",
+      "created_at": "2023-05-25T10:14:36Z",
+      "discussions": [
+        {
+          "title": "license: tii-falcon-llm",
+          "number": 5,
+          "url": "https://huggingface.co/tiiuae/falcon-40b-instruct/discussions/5",
+          "created_at": "2023-05-30T14:12:19Z",
+          "closed_at": "2023-05-30T15:02:05Z"
+        }
+      ]
+    },
+    {
+      "model_name": "sentence-transformers/all-MiniLM-L12-v2",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "Created Apache license based on tag",
+          "number": 14,
+          "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L12-v2/discussions/14",
+          "created_at": "2024-05-06T11:58:54Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "j-hartmann/emotion-english-roberta-large",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "License",
+          "number": 1,
+          "url": "https://huggingface.co/j-hartmann/emotion-english-roberta-large/discussions/1",
+          "created_at": "2022-12-16T10:05:28Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "facebook/nougat-base",
+      "created_at": "2023-09-21T08:39:24Z",
+      "discussions": [
+        {
+          "title": "Update license",
+          "number": 10,
+          "url": "https://huggingface.co/facebook/nougat-base/discussions/10",
+          "created_at": "2023-11-20T09:22:54Z",
+          "closed_at": "2023-11-20T09:26:49Z"
+        },
+        {
+          "title": "License",
+          "number": 7,
+          "url": "https://huggingface.co/facebook/nougat-base/discussions/7",
+          "created_at": "2023-11-03T18:38:21Z",
+          "closed_at": ""
+        },
+        {
+          "title": "Are there any plans to update the license?",
+          "number": 11,
+          "url": "https://huggingface.co/facebook/nougat-base/discussions/11",
+          "created_at": "2023-12-22T14:30:24Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "tiiuae/falcon-40b",
+      "created_at": "2023-05-24T12:08:30Z",
+      "discussions": [
+        {
+          "title": "Update license",
+          "number": 29,
+          "url": "https://huggingface.co/tiiuae/falcon-40b/discussions/29",
+          "created_at": "2023-05-31T19:00:51Z",
+          "closed_at": "2023-05-31T19:08:55Z"
+        },
+        {
+          "title": "`license: apache-2.0`",
+          "number": 28,
+          "url": "https://huggingface.co/tiiuae/falcon-40b/discussions/28",
+          "created_at": "2023-05-31T17:55:20Z",
+          "closed_at": "2023-05-31T17:55:26Z"
+        }
+      ]
+    },
+    {
+      "model_name": "suno/bark-small",
+      "created_at": "2023-07-18T13:50:46Z",
+      "discussions": [
+        {
+          "title": "Update license",
+          "number": 3,
+          "url": "https://huggingface.co/suno/bark-small/discussions/3",
+          "created_at": "2023-08-08T10:28:06Z",
+          "closed_at": "2023-08-08T11:12:30Z"
+        }
+      ]
+    },
+    {
+      "model_name": "internlm/internlm3-8b-instruct",
+      "created_at": "2025-01-13T12:25:43Z",
+      "discussions": [
+        {
+          "title": "Add License as mentioned in model card",
+          "number": 5,
+          "url": "https://huggingface.co/internlm/internlm3-8b-instruct/discussions/5",
+          "created_at": "2025-01-15T08:24:03Z",
+          "closed_at": "2025-01-15T09:12:34Z"
+        }
+      ]
+    },
+    {
+      "model_name": "wangfuyun/AnimateLCM",
+      "created_at": "2024-02-03T05:59:46Z",
+      "discussions": [
+        {
+          "title": "License",
+          "number": 3,
+          "url": "https://huggingface.co/wangfuyun/AnimateLCM/discussions/3",
+          "created_at": "2024-02-04T19:52:18Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "meta-llama/Llama-3.2-11B-Vision-Instruct",
+      "created_at": "2024-09-18T16:47:28Z",
+      "discussions": [
+        {
+          "title": "accepting LLAMA 3.2 COMMUNITY LICENSE AGREEMENT not possible",
+          "number": 33,
+          "url": "https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct/discussions/33",
+          "created_at": "2024-09-27T06:58:23Z",
+          "closed_at": "2024-09-27T08:30:19Z"
+        },
+        {
+          "title": "Model card, license, AUP",
+          "number": 9,
+          "url": "https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct/discussions/9",
+          "created_at": "2024-09-21T09:05:54Z",
+          "closed_at": "2024-09-21T09:13:03Z"
+        }
+      ]
+    },
+    {
+      "model_name": "siebert/sentiment-roberta-large-english",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "License?",
+          "number": 5,
+          "url": "https://huggingface.co/siebert/sentiment-roberta-large-english/discussions/5",
+          "created_at": "2023-07-18T17:28:48Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "allenai/longformer-base-4096",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "Added license info",
+          "number": 4,
+          "url": "https://huggingface.co/allenai/longformer-base-4096/discussions/4",
+          "created_at": "2023-04-05T16:38:28Z",
+          "closed_at": "2023-04-05T18:24:00Z"
+        },
+        {
+          "title": "Adding License file to repository",
+          "number": 9,
+          "url": "https://huggingface.co/allenai/longformer-base-4096/discussions/9",
+          "created_at": "2024-04-29T05:35:45Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "google/gemma-2b-it",
+      "created_at": "2024-02-08T13:23:59Z",
+      "discussions": [
+        {
+          "title": "Update license and code snippet",
+          "number": 34,
+          "url": "https://huggingface.co/google/gemma-2b-it/discussions/34",
+          "created_at": "2024-04-03T08:24:33Z",
+          "closed_at": "2024-04-03T08:33:38Z"
+        },
+        {
+          "title": "Update License",
+          "number": 52,
+          "url": "https://huggingface.co/google/gemma-2b-it/discussions/52",
+          "created_at": "2024-09-03T20:06:29Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "microsoft/trocr-base-handwritten",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "Add License",
+          "number": 10,
+          "url": "https://huggingface.co/microsoft/trocr-base-handwritten/discussions/10",
+          "created_at": "2024-11-07T10:06:51Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "microsoft/phi-2",
+      "created_at": "2023-12-13T21:19:59Z",
+      "discussions": [
+        {
+          "title": "License",
+          "number": 4,
+          "url": "https://huggingface.co/microsoft/phi-2/discussions/4",
+          "created_at": "2023-12-13T21:51:56Z",
+          "closed_at": "2024-01-06T18:50:52Z"
+        },
+        {
+          "title": "License is now MIT; enable Inference API",
+          "number": 70,
+          "url": "https://huggingface.co/microsoft/phi-2/discussions/70",
+          "created_at": "2024-01-06T18:54:29Z",
+          "closed_at": "2024-01-26T20:59:54Z"
+        },
+        {
+          "title": "License",
+          "number": 67,
+          "url": "https://huggingface.co/microsoft/phi-2/discussions/67",
+          "created_at": "2024-01-06T05:56:15Z",
+          "closed_at": "2024-01-06T15:44:09Z"
+        },
+        {
+          "title": "LICENSE for a fine-tuned Phi-2",
+          "number": 111,
+          "url": "https://huggingface.co/microsoft/phi-2/discussions/111",
+          "created_at": "2024-02-21T02:41:55Z",
+          "closed_at": "2024-04-17T13:44:38Z"
+        }
+      ]
+    },
+    {
+      "model_name": "RWKV/rwkv-raven-14b",
+      "created_at": "2023-05-05T12:24:03Z",
+      "discussions": [
+        {
+          "title": "Please specify the License",
+          "number": 2,
+          "url": "https://huggingface.co/RWKV/rwkv-raven-14b/discussions/2",
+          "created_at": "2023-08-05T14:04:36Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "tiiuae/falcon-7b-instruct",
+      "created_at": "2023-04-25T06:21:01Z",
+      "discussions": [
+        {
+          "title": "License file",
+          "number": 77,
+          "url": "https://huggingface.co/tiiuae/falcon-7b-instruct/discussions/77",
+          "created_at": "2023-08-29T04:31:50Z",
+          "closed_at": "2023-08-29T07:31:07Z"
+        },
+        {
+          "title": "Ambiguous License",
+          "number": 15,
+          "url": "https://huggingface.co/tiiuae/falcon-7b-instruct/discussions/15",
+          "created_at": "2023-06-01T02:54:02Z",
+          "closed_at": "2023-06-09T14:13:46Z"
+        },
+        {
+          "title": "license: tii-falcon-llm",
+          "number": 11,
+          "url": "https://huggingface.co/tiiuae/falcon-7b-instruct/discussions/11",
+          "created_at": "2023-05-30T14:12:43Z",
+          "closed_at": "2023-05-30T14:58:07Z"
+        }
+      ]
+    },
+    {
+      "model_name": "stabilityai/stable-diffusion-3-medium",
+      "created_at": "2024-05-30T07:38:13Z",
+      "discussions": [
+        {
+          "title": "LIcense is too limiting",
+          "number": 88,
+          "url": "https://huggingface.co/stabilityai/stable-diffusion-3-medium/discussions/88",
+          "created_at": "2024-06-13T10:11:13Z",
+          "closed_at": ""
+        },
+        {
+          "title": "Does the SD3 license not allow fine-tuning the model without paying?",
+          "number": 109,
+          "url": "https://huggingface.co/stabilityai/stable-diffusion-3-medium/discussions/109",
+          "created_at": "2024-06-14T09:20:08Z",
+          "closed_at": ""
+        },
+        {
+          "title": "Update license to GPL3",
+          "number": 100,
+          "url": "https://huggingface.co/stabilityai/stable-diffusion-3-medium/discussions/100",
+          "created_at": "2024-06-14T06:00:31Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "suno/bark",
+      "created_at": "2023-04-25T14:44:46Z",
+      "discussions": [
+        {
+          "title": "Update license",
+          "number": 22,
+          "url": "https://huggingface.co/suno/bark/discussions/22",
+          "created_at": "2023-09-06T15:38:57Z",
+          "closed_at": "2023-09-16T18:40:55Z"
+        },
+        {
+          "title": "Update license",
+          "number": 6,
+          "url": "https://huggingface.co/suno/bark/discussions/6",
+          "created_at": "2023-06-21T02:15:14Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "finegrain/finegrain-box-segmenter",
+      "created_at": "2024-08-29T07:55:20Z",
+      "discussions": [
+        {
+          "title": "Model license vs. dataset license",
+          "number": 1,
+          "url": "https://huggingface.co/finegrain/finegrain-box-segmenter/discussions/1",
+          "created_at": "2024-09-11T06:51:39Z",
+          "closed_at": "2025-02-03T15:02:18Z"
+        }
+      ]
+    },
+    {
+      "model_name": "meta-llama/Meta-Llama-Guard-2-8B",
+      "created_at": "2024-04-17T09:35:34Z",
+      "discussions": [
+        {
+          "title": "Change license from other to llama3",
+          "number": 10,
+          "url": "https://huggingface.co/meta-llama/Meta-Llama-Guard-2-8B/discussions/10",
+          "created_at": "2024-05-07T08:13:10Z",
+          "closed_at": "2024-05-13T09:36:08Z"
+        }
+      ]
+    },
+    {
+      "model_name": "togethercomputer/GPT-JT-6B-v1",
+      "created_at": "2022-11-24T06:09:34Z",
+      "discussions": [
+        {
+          "title": "Model license ",
+          "number": 6,
+          "url": "https://huggingface.co/togethercomputer/GPT-JT-6B-v1/discussions/6",
+          "created_at": "2022-12-01T10:06:39Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "dbmdz/bert-large-cased-finetuned-conll03-english",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "what is the license of this model ?",
+          "number": 3,
+          "url": "https://huggingface.co/dbmdz/bert-large-cased-finetuned-conll03-english/discussions/3",
+          "created_at": "2024-07-10T13:56:42Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "roneneldan/TinyStories-33M",
+      "created_at": "2023-05-12T19:16:05Z",
+      "discussions": [
+        {
+          "title": "what is the license for this model?",
+          "number": 5,
+          "url": "https://huggingface.co/roneneldan/TinyStories-33M/discussions/5",
+          "created_at": "2023-07-12T23:17:56Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "adept/fuyu-8b",
+      "created_at": "2023-10-17T22:42:08Z",
+      "discussions": [
+        {
+          "title": "License question",
+          "number": 16,
+          "url": "https://huggingface.co/adept/fuyu-8b/discussions/16",
+          "created_at": "2023-10-20T03:22:01Z",
+          "closed_at": ""
+        },
+        {
+          "title": "Fix license",
+          "number": 11,
+          "url": "https://huggingface.co/adept/fuyu-8b/discussions/11",
+          "created_at": "2023-10-19T07:29:13Z",
+          "closed_at": "2023-10-19T17:31:51Z"
+        }
+      ]
+    },
+    {
+      "model_name": "facebook/mbart-large-50-many-to-many-mmt",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "About License ?",
+          "number": 12,
+          "url": "https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/discussions/12",
+          "created_at": "2023-11-16T11:09:12Z",
+          "closed_at": ""
+        },
+        {
+          "title": "What is the license for that model?",
+          "number": 27,
+          "url": "https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/discussions/27",
+          "created_at": "2024-05-10T05:54:05Z",
+          "closed_at": "2024-05-29T01:01:50Z"
+        },
+        {
+          "title": "Question about mbart60 License",
+          "number": 2,
+          "url": "https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/discussions/2",
+          "created_at": "2022-06-20T04:37:34Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "sentence-transformers/sentence-t5-xxl",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "Added License file based on the Apache 2.0 tag",
+          "number": 6,
+          "url": "https://huggingface.co/sentence-transformers/sentence-t5-xxl/discussions/6",
+          "created_at": "2024-05-06T13:10:33Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "nvidia/Llama-3_1-Nemotron-51B-Instruct",
+      "created_at": "2024-09-22T07:24:59Z",
+      "discussions": [
+        {
+          "title": "nvidia-open-model-license",
+          "number": 14,
+          "url": "https://huggingface.co/nvidia/Llama-3_1-Nemotron-51B-Instruct/discussions/14",
+          "created_at": "2024-09-29T09:59:03Z",
+          "closed_at": "2024-09-29T10:00:07Z"
+        },
+        {
+          "title": "nvidia-open-model-license",
+          "number": 12,
+          "url": "https://huggingface.co/nvidia/Llama-3_1-Nemotron-51B-Instruct/discussions/12",
+          "created_at": "2024-09-29T09:53:32Z",
+          "closed_at": "2024-09-29T09:55:49Z"
+        }
+      ]
+    },
+    {
+      "model_name": "facebook/mms-300m",
+      "created_at": "2023-05-22T19:38:01Z",
+      "discussions": [
+        {
+          "title": "Change the license",
+          "number": 1,
+          "url": "https://huggingface.co/facebook/mms-300m/discussions/1",
+          "created_at": "2023-06-04T10:46:42Z",
+          "closed_at": "2023-06-05T10:23:32Z"
+        }
+      ]
+    },
+    {
+      "model_name": "llava-hf/llava-v1.6-mistral-7b-hf",
+      "created_at": "2024-02-20T08:01:48Z",
+      "discussions": [
+        {
+          "title": "Add Apache-2.0 license?",
+          "number": 14,
+          "url": "https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf/discussions/14",
+          "created_at": "2024-04-23T16:34:57Z",
+          "closed_at": "2024-05-09T20:11:35Z"
+        },
+        {
+          "title": "Update license to match upstream (Apache)",
+          "number": 15,
+          "url": "https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf/discussions/15",
+          "created_at": "2024-04-24T00:46:41Z",
+          "closed_at": "2024-05-09T20:11:08Z"
+        },
+        {
+          "title": "Is this model under license apache2.0?",
+          "number": 17,
+          "url": "https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf/discussions/17",
+          "created_at": "2024-05-09T14:49:40Z",
+          "closed_at": "2024-05-21T19:32:27Z"
+        }
+      ]
+    },
+    {
+      "model_name": "briaai/RMBG-1.4",
+      "created_at": "2023-12-12T19:52:35Z",
+      "discussions": [
+        {
+          "title": "\"open-source license for non-commercial use\" is contradictory",
+          "number": 4,
+          "url": "https://huggingface.co/briaai/RMBG-1.4/discussions/4",
+          "created_at": "2024-02-07T00:51:01Z",
+          "closed_at": "2024-02-11T18:43:00Z"
+        }
+      ]
+    },
+    {
+      "model_name": "distilbert/distilroberta-base",
+      "created_at": "2022-03-02T23:29:04Z",
+      "discussions": [
+        {
+          "title": "Created License File",
+          "number": 5,
+          "url": "https://huggingface.co/distilbert/distilroberta-base/discussions/5",
+          "created_at": "2024-05-27T15:33:42Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "shahrukhx01/question-vs-statement-classifier",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "License to use?",
+          "number": 2,
+          "url": "https://huggingface.co/shahrukhx01/question-vs-statement-classifier/discussions/2",
+          "created_at": "2023-10-25T23:14:27Z",
+          "closed_at": "2023-11-01T22:31:58Z"
+        }
+      ]
+    },
+    {
+      "model_name": "openchat/opencoderplus",
+      "created_at": "2023-06-30T15:28:09Z",
+      "discussions": [
+        {
+          "title": "License",
+          "number": 1,
+          "url": "https://huggingface.co/openchat/opencoderplus/discussions/1",
+          "created_at": "2023-07-02T17:19:21Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "openai/clip-vit-large-patch14",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "License Request",
+          "number": 21,
+          "url": "https://huggingface.co/openai/clip-vit-large-patch14/discussions/21",
+          "created_at": "2023-09-12T07:22:52Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "mosaicml/mpt-1b-redpajama-200b",
+      "created_at": "2023-04-19T23:34:25Z",
+      "discussions": [
+        {
+          "title": "Create LICENSE",
+          "number": 9,
+          "url": "https://huggingface.co/mosaicml/mpt-1b-redpajama-200b/discussions/9",
+          "created_at": "2024-03-05T19:47:47Z",
+          "closed_at": "2024-03-05T20:31:05Z"
+        }
+      ]
+    },
+    {
+      "model_name": "mistralai/Mistral-7B-v0.1",
+      "created_at": "2023-09-20T13:03:50Z",
+      "discussions": [
+        {
+          "title": "Apache 2.0 License",
+          "number": 2,
+          "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1/discussions/2",
+          "created_at": "2023-09-27T16:36:41Z",
+          "closed_at": "2023-09-27T16:38:04Z"
+        }
+      ]
+    },
+    {
+      "model_name": "Intel/dpt-large-ade",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "License appears to be MIT",
+          "number": 1,
+          "url": "https://huggingface.co/Intel/dpt-large-ade/discussions/1",
+          "created_at": "2022-11-10T18:35:40Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "amphion/MaskGCT",
+      "created_at": "2024-10-13T16:42:07Z",
+      "discussions": [
+        {
+          "title": "Commercial License?",
+          "number": 5,
+          "url": "https://huggingface.co/amphion/MaskGCT/discussions/5",
+          "created_at": "2024-10-31T15:21:44Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "laion/CLIP-ViT-L-14-DataComp.XL-s13B-b90K",
+      "created_at": "2023-04-26T01:41:18Z",
+      "discussions": [
+        {
+          "title": "MIT license",
+          "number": 7,
+          "url": "https://huggingface.co/laion/CLIP-ViT-L-14-DataComp.XL-s13B-b90K/discussions/7",
+          "created_at": "2023-05-21T17:40:56Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "openai-community/gpt2",
+      "created_at": "2022-03-02T23:29:04Z",
+      "discussions": [
+        {
+          "title": "License text is not available",
+          "number": 66,
+          "url": "https://huggingface.co/openai-community/gpt2/discussions/66",
+          "created_at": "2023-08-21T15:56:07Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "google/gemma-2b",
+      "created_at": "2024-02-08T08:11:26Z",
+      "discussions": [
+        {
+          "title": "Update license and model card",
+          "number": 42,
+          "url": "https://huggingface.co/google/gemma-2b/discussions/42",
+          "created_at": "2024-04-03T08:34:26Z",
+          "closed_at": "2024-04-03T08:36:02Z"
+        }
+      ]
+    },
+    {
+      "model_name": "openbmb/MiniCPM-o-2_6",
+      "created_at": "2025-01-12T07:40:10Z",
+      "discussions": [
+        {
+          "title": "Remove apache-2.0 license tag",
+          "number": 3,
+          "url": "https://huggingface.co/openbmb/MiniCPM-o-2_6/discussions/3",
+          "created_at": "2025-01-14T11:35:42Z",
+          "closed_at": "2025-01-14T14:01:02Z"
+        }
+      ]
+    },
+    {
+      "model_name": "google-bert/bert-base-uncased",
+      "created_at": "2022-03-02T23:29:04Z",
+      "discussions": [
+        {
+          "title": "Upload LICENSE",
+          "number": 2,
+          "url": "https://huggingface.co/google-bert/bert-base-uncased/discussions/2",
+          "created_at": "2022-06-02T12:01:38Z",
+          "closed_at": "2022-06-06T11:41:24Z"
+        }
+      ]
+    },
+    {
+      "model_name": "philschmid/bart-large-cnn-samsum",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "License for this model",
+          "number": 7,
+          "url": "https://huggingface.co/philschmid/bart-large-cnn-samsum/discussions/7",
+          "created_at": "2022-11-07T19:31:37Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "microsoft/deberta-v3-large",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "Added license based on tag",
+          "number": 10,
+          "url": "https://huggingface.co/microsoft/deberta-v3-large/discussions/10",
+          "created_at": "2024-09-18T06:14:41Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "facebook/nougat-small",
+      "created_at": "2023-09-21T08:51:00Z",
+      "discussions": [
+        {
+          "title": "Update license",
+          "number": 6,
+          "url": "https://huggingface.co/facebook/nougat-small/discussions/6",
+          "created_at": "2023-11-20T09:27:27Z",
+          "closed_at": "2023-11-20T09:27:37Z"
+        }
+      ]
+    },
+    {
+      "model_name": "HuggingFaceH4/starchat-beta",
+      "created_at": "2023-06-07T11:23:47Z",
+      "discussions": [
+        {
+          "title": "License: BigCode Open RAIL-M v1",
+          "number": 2,
+          "url": "https://huggingface.co/HuggingFaceH4/starchat-beta/discussions/2",
+          "created_at": "2023-06-10T13:34:46Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "THUDM/CogVideoX-2b",
+      "created_at": "2024-08-05T14:13:31Z",
+      "discussions": [
+        {
+          "title": "Fix license",
+          "number": 8,
+          "url": "https://huggingface.co/THUDM/CogVideoX-2b/discussions/8",
+          "created_at": "2024-08-27T12:03:45Z",
+          "closed_at": "2024-08-27T12:04:37Z"
+        }
+      ]
+    },
+    {
+      "model_name": "internlm/internlm-xcomposer2-vl-7b",
+      "created_at": "2024-01-25T09:01:09Z",
+      "discussions": [
+        {
+          "title": "License",
+          "number": 11,
+          "url": "https://huggingface.co/internlm/internlm-xcomposer2-vl-7b/discussions/11",
+          "created_at": "2024-06-14T07:39:58Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "SimianLuo/LCM_Dreamshaper_v7",
+      "created_at": "2023-10-14T08:26:52Z",
+      "discussions": [
+        {
+          "title": "Image License",
+          "number": 13,
+          "url": "https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7/discussions/13",
+          "created_at": "2024-02-03T23:36:44Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "deepset/deberta-v3-base-injection",
+      "created_at": "2023-05-17T08:59:29Z",
+      "discussions": [
+        {
+          "title": "Applying MIT license to the repository",
+          "number": 7,
+          "url": "https://huggingface.co/deepset/deberta-v3-base-injection/discussions/7",
+          "created_at": "2024-04-16T15:57:23Z",
+          "closed_at": ""
+        },
+        {
+          "title": "Attach License File",
+          "number": 9,
+          "url": "https://huggingface.co/deepset/deberta-v3-base-injection/discussions/9",
+          "created_at": "2024-12-06T05:30:24Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "microsoft/OmniParser",
+      "created_at": "2024-10-07T23:32:07Z",
+      "discussions": [
+        {
+          "title": "Create LICENSE",
+          "number": 1,
+          "url": "https://huggingface.co/microsoft/OmniParser/discussions/1",
+          "created_at": "2024-10-24T12:54:58Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "sentence-transformers/clip-ViT-B-32",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "License?",
+          "number": 4,
+          "url": "https://huggingface.co/sentence-transformers/clip-ViT-B-32/discussions/4",
+          "created_at": "2023-06-05T16:10:11Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "cagliostrolab/animagine-xl-3.1",
+      "created_at": "2024-03-13T09:40:48Z",
+      "discussions": [
+        {
+          "title": "FAQ about License: Fair AI Public License 1.0-SD",
+          "number": 1,
+          "url": "https://huggingface.co/cagliostrolab/animagine-xl-3.1/discussions/1",
+          "created_at": "2024-03-17T15:30:57Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "mistral-community/pixtral-12b",
+      "created_at": "2024-09-13T19:32:26Z",
+      "discussions": [
+        {
+          "title": "Does the licensing for this model incorporate or depend on the licenses for LLaVA and LLaMA?",
+          "number": 20,
+          "url": "https://huggingface.co/mistral-community/pixtral-12b/discussions/20",
+          "created_at": "2024-12-18T07:51:56Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "microsoft/phi-1_5",
+      "created_at": "2023-09-10T04:03:46Z",
+      "discussions": [
+        {
+          "title": "Phi-2 license changed to MIT. Plans for Phi-1.5?",
+          "number": 68,
+          "url": "https://huggingface.co/microsoft/phi-1_5/discussions/68",
+          "created_at": "2024-01-06T11:06:49Z",
+          "closed_at": "2024-01-08T13:21:41Z"
+        }
+      ]
+    },
+    {
+      "model_name": "HuggingFaceM4/Idefics3-8B-Llama3",
+      "created_at": "2024-08-05T16:12:33Z",
+      "discussions": [
+        {
+          "title": "Question regarding license",
+          "number": 24,
+          "url": "https://huggingface.co/HuggingFaceM4/Idefics3-8B-Llama3/discussions/24",
+          "created_at": "2025-04-22T11:57:55Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "unsloth/mistral-7b-instruct-v0.2-bnb-4bit",
+      "created_at": "2024-01-21T15:24:24Z",
+      "discussions": [
+        {
+          "title": "Add License Tag",
+          "number": 2,
+          "url": "https://huggingface.co/unsloth/mistral-7b-instruct-v0.2-bnb-4bit/discussions/2",
+          "created_at": "2024-02-14T21:09:13Z",
+          "closed_at": "2024-02-15T17:59:20Z"
+        }
+      ]
+    },
+    {
+      "model_name": "KBLab/sentence-bert-swedish-cased",
+      "created_at": "2022-03-02T23:29:04Z",
+      "discussions": [
+        {
+          "title": "License ",
+          "number": 1,
+          "url": "https://huggingface.co/KBLab/sentence-bert-swedish-cased/discussions/1",
+          "created_at": "2023-07-15T17:02:00Z",
+          "closed_at": "2023-07-18T09:56:11Z"
+        }
+      ]
+    },
+    {
+      "model_name": "tencent/HunyuanVideo",
+      "created_at": "2024-12-01T06:00:34Z",
+      "discussions": [
+        {
+          "title": "THIS LICENSE AGREEMENT DOES NOT APPLY IN THE EUROPEAN UNION",
+          "number": 15,
+          "url": "https://huggingface.co/tencent/HunyuanVideo/discussions/15",
+          "created_at": "2024-12-09T19:47:19Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "facebook/fasttext-language-identification",
+      "created_at": "2023-03-06T12:52:50Z",
+      "discussions": [
+        {
+          "title": "Difference from the official site and License",
+          "number": 2,
+          "url": "https://huggingface.co/facebook/fasttext-language-identification/discussions/2",
+          "created_at": "2023-05-18T07:07:16Z",
+          "closed_at": "2023-06-04T22:27:25Z"
+        }
+      ]
+    },
+    {
+      "model_name": "THUDM/chatglm3-6b",
+      "created_at": "2023-10-25T09:56:41Z",
+      "discussions": [
+        {
+          "title": "Delete MODEL_LICENSE",
+          "number": 62,
+          "url": "https://huggingface.co/THUDM/chatglm3-6b/discussions/62",
+          "created_at": "2024-10-23T11:46:19Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "weqweasdas/RM-Mistral-7B",
+      "created_at": "2024-03-22T14:02:42Z",
+      "discussions": [
+        {
+          "title": "License",
+          "number": 2,
+          "url": "https://huggingface.co/weqweasdas/RM-Mistral-7B/discussions/2",
+          "created_at": "2024-04-08T17:25:08Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "CompVis/stable-diffusion-v1-4",
+      "created_at": "2022-08-20T13:26:13Z",
+      "discussions": [
+        {
+          "title": "You need to accept the model license...",
+          "number": 83,
+          "url": "https://huggingface.co/CompVis/stable-diffusion-v1-4/discussions/83",
+          "created_at": "2022-10-05T00:29:30Z",
+          "closed_at": "2022-12-17T10:48:37Z"
+        }
+      ]
+    },
+    {
+      "model_name": "mosaicml/mpt-7b",
+      "created_at": "2023-05-05T00:48:02Z",
+      "discussions": [
+        {
+          "title": "Create LICENSE",
+          "number": 91,
+          "url": "https://huggingface.co/mosaicml/mpt-7b/discussions/91",
+          "created_at": "2024-03-05T19:10:06Z",
+          "closed_at": "2024-03-05T20:23:57Z"
+        }
+      ]
+    },
+    {
+      "model_name": "openlm-research/open_llama_7b_v2",
+      "created_at": "2023-07-06T08:23:04Z",
+      "discussions": [
+        {
+          "title": "Apache 2.0 License",
+          "number": 3,
+          "url": "https://huggingface.co/openlm-research/open_llama_7b_v2/discussions/3",
+          "created_at": "2023-10-29T21:48:12Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "mit-han-lab/dc-ae-f32c32-sana-1.0-diffusers",
+      "created_at": "2024-12-05T11:34:09Z",
+      "discussions": [
+        {
+          "title": "License",
+          "number": 2,
+          "url": "https://huggingface.co/mit-han-lab/dc-ae-f32c32-sana-1.0-diffusers/discussions/2",
+          "created_at": "2024-12-13T15:22:33Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "databricks/dolly-v2-12b",
+      "created_at": "2023-04-11T16:10:54Z",
+      "discussions": [
+        {
+          "title": "Please clarify the License.",
+          "number": 86,
+          "url": "https://huggingface.co/databricks/dolly-v2-12b/discussions/86",
+          "created_at": "2023-07-26T08:03:59Z",
+          "closed_at": "2023-07-28T11:37:47Z"
+        }
+      ]
+    },
+    {
+      "model_name": "huggyllama/llama-13b",
+      "created_at": "2023-04-03T23:37:51Z",
+      "discussions": [
+        {
+          "title": "Add more precise license metadata (UI will be cleaner!)",
+          "number": 2,
+          "url": "https://huggingface.co/huggyllama/llama-13b/discussions/2",
+          "created_at": "2023-10-27T14:55:13Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "chavinlo/alpaca-native",
+      "created_at": "2023-03-16T02:37:26Z",
+      "discussions": [
+        {
+          "title": "do replicas have same license?",
+          "number": 9,
+          "url": "https://huggingface.co/chavinlo/alpaca-native/discussions/9",
+          "created_at": "2023-03-23T03:50:23Z",
+          "closed_at": "2023-03-24T07:52:55Z"
+        },
+        {
+          "title": "[READ!!!] model license",
+          "number": 17,
+          "url": "https://huggingface.co/chavinlo/alpaca-native/discussions/17",
+          "created_at": "2023-04-12T17:55:43Z",
+          "closed_at": "2024-01-25T06:24:35Z"
+        }
+      ]
+    },
+    {
+      "model_name": "mosaicml/mpt-7b-chat",
+      "created_at": "2023-05-04T23:56:17Z",
+      "discussions": [
+        {
+          "title": "Create LICENSE",
+          "number": 44,
+          "url": "https://huggingface.co/mosaicml/mpt-7b-chat/discussions/44",
+          "created_at": "2024-03-05T19:35:52Z",
+          "closed_at": "2024-03-05T20:25:13Z"
+        }
+      ]
+    },
+    {
+      "model_name": "depth-anything/Depth-Anything-V2-Large-hf",
+      "created_at": "2024-06-20T15:31:25Z",
+      "discussions": [
+        {
+          "title": "Update license and model card",
+          "number": 1,
+          "url": "https://huggingface.co/depth-anything/Depth-Anything-V2-Large-hf/discussions/1",
+          "created_at": "2024-07-05T11:30:24Z",
+          "closed_at": "2024-07-05T11:30:29Z"
+        }
+      ]
+    },
+    {
+      "model_name": "facebook/fastspeech2-en-ljspeech",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "License?",
+          "number": 23,
+          "url": "https://huggingface.co/facebook/fastspeech2-en-ljspeech/discussions/23",
+          "created_at": "2024-12-12T09:41:00Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "google/gemma-7b",
+      "created_at": "2024-02-08T22:36:43Z",
+      "discussions": [
+        {
+          "title": "license?",
+          "number": 9,
+          "url": "https://huggingface.co/google/gemma-7b/discussions/9",
+          "created_at": "2024-02-21T13:13:16Z",
+          "closed_at": "2024-02-22T08:02:45Z"
+        },
+        {
+          "title": "Fix model card and license",
+          "number": 83,
+          "url": "https://huggingface.co/google/gemma-7b/discussions/83",
+          "created_at": "2024-04-03T08:35:14Z",
+          "closed_at": "2024-04-03T08:36:06Z"
+        }
+      ]
+    },
+    {
+      "model_name": "dome272/wuerstchen",
+      "created_at": "2023-05-26T19:55:29Z",
+      "discussions": [
+        {
+          "title": "MIT license",
+          "number": 1,
+          "url": "https://huggingface.co/dome272/wuerstchen/discussions/1",
+          "created_at": "2023-06-03T04:17:59Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.1",
+      "created_at": "2023-09-27T14:31:52Z",
+      "discussions": [
+        {
+          "title": "License agreement",
+          "number": 107,
+          "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1/discussions/107",
+          "created_at": "2024-04-18T17:17:52Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "Qwen/Qwen-VL-Chat",
+      "created_at": "2023-08-20T04:45:22Z",
+      "discussions": [
+        {
+          "title": "Update a link to LICENSE",
+          "number": 7,
+          "url": "https://huggingface.co/Qwen/Qwen-VL-Chat/discussions/7",
+          "created_at": "2023-10-10T15:52:48Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "facebook/mbart-large-50-one-to-many-mmt",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "Adding MIT license?",
+          "number": 2,
+          "url": "https://huggingface.co/facebook/mbart-large-50-one-to-many-mmt/discussions/2",
+          "created_at": "2023-02-15T12:59:54Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "pritamdeka/S-PubMedBert-MS-MARCO",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "The model has apache-2.0 license tag, does that mean this model can be used for Commercial purpose?",
+          "number": 9,
+          "url": "https://huggingface.co/pritamdeka/S-PubMedBert-MS-MARCO/discussions/9",
+          "created_at": "2024-09-05T07:34:03Z",
+          "closed_at": "2024-09-05T09:39:16Z"
+        }
+      ]
+    },
+    {
+      "model_name": "facebook/seamless-m4t-v2-large",
+      "created_at": "2023-11-29T14:37:04Z",
+      "discussions": [
+        {
+          "title": "License",
+          "number": 31,
+          "url": "https://huggingface.co/facebook/seamless-m4t-v2-large/discussions/31",
+          "created_at": "2024-02-08T18:44:25Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "deutsche-telekom/bert-multi-english-german-squad2",
+      "created_at": "2022-03-02T23:29:05Z",
+      "discussions": [
+        {
+          "title": "License / documentation files",
+          "number": 5,
+          "url": "https://huggingface.co/deutsche-telekom/bert-multi-english-german-squad2/discussions/5",
+          "created_at": "2024-01-24T10:46:22Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "microsoft/udop-large",
+      "created_at": "2024-02-26T09:20:04Z",
+      "discussions": [
+        {
+          "title": "What is the license?",
+          "number": 1,
+          "url": "https://huggingface.co/microsoft/udop-large/discussions/1",
+          "created_at": "2024-03-06T08:37:07Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "mosaicml/mpt-7b-instruct",
+      "created_at": "2023-05-05T00:52:12Z",
+      "discussions": [
+        {
+          "title": "Create LICENSE",
+          "number": 72,
+          "url": "https://huggingface.co/mosaicml/mpt-7b-instruct/discussions/72",
+          "created_at": "2024-03-05T19:35:03Z",
+          "closed_at": "2024-03-05T20:24:35Z"
+        }
+      ]
+    },
+    {
+      "model_name": "yisol/IDM-VTON",
+      "created_at": "2024-03-28T20:42:50Z",
+      "discussions": [
+        {
+          "title": "Commercial License",
+          "number": 26,
+          "url": "https://huggingface.co/yisol/IDM-VTON/discussions/26",
+          "created_at": "2024-10-28T16:18:27Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "created_at": "2024-04-17T09:35:12Z",
+      "discussions": [
+        {
+          "title": "Change license from other to llama3",
+          "number": 92,
+          "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct/discussions/92",
+          "created_at": "2024-05-07T08:13:01Z",
+          "closed_at": "2024-05-13T09:36:00Z"
+        }
+      ]
+    },
+    {
+      "model_name": "siyan824/reloc3r-224",
+      "created_at": "2025-01-06T08:04:04Z",
+      "discussions": [
+        {
+          "title": "Add pipeline tag and license",
+          "number": 1,
+          "url": "https://huggingface.co/siyan824/reloc3r-224/discussions/1",
+          "created_at": "2025-03-24T12:16:22Z",
+          "closed_at": "2025-03-28T16:13:05Z"
+        }
+      ]
+    },
+    {
+      "model_name": "bigcode/starcoder",
+      "created_at": "2023-04-24T12:36:52Z",
+      "discussions": [
+        {
+          "title": "Issue accessing the license",
+          "number": 88,
+          "url": "https://huggingface.co/bigcode/starcoder/discussions/88",
+          "created_at": "2023-09-08T19:01:33Z",
+          "closed_at": "2023-10-05T09:24:50Z"
+        },
+        {
+          "title": "License Agreement",
+          "number": 4,
+          "url": "https://huggingface.co/bigcode/starcoder/discussions/4",
+          "created_at": "2023-05-04T10:41:30Z",
+          "closed_at": "2023-05-04T11:35:26Z"
+        }
+      ]
+    },
+    {
+      "model_name": "mistralai/Mistral-Large-Instruct-2407",
+      "created_at": "2024-07-24T11:27:22Z",
+      "discussions": [
+        {
+          "title": "License for tokenizer",
+          "number": 22,
+          "url": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2407/discussions/22",
+          "created_at": "2024-08-14T12:38:13Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "facebook/encodec_48khz",
+      "created_at": "2023-06-12T16:10:51Z",
+      "discussions": [
+        {
+          "title": "License?",
+          "number": 3,
+          "url": "https://huggingface.co/facebook/encodec_48khz/discussions/3",
+          "created_at": "2023-08-14T04:16:29Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "huggyllama/llama-65b",
+      "created_at": "2023-04-04T01:43:00Z",
+      "discussions": [
+        {
+          "title": "Add more precise license metadata (UI will be cleaner!)",
+          "number": 1,
+          "url": "https://huggingface.co/huggyllama/llama-65b/discussions/1",
+          "created_at": "2023-10-27T14:43:14Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "apple/deeplabv3-mobilevit-small",
+      "created_at": "2022-05-30T12:49:24Z",
+      "discussions": [
+        {
+          "title": "Apply AMLR license",
+          "number": 5,
+          "url": "https://huggingface.co/apple/deeplabv3-mobilevit-small/discussions/5",
+          "created_at": "2025-02-27T18:11:28Z",
+          "closed_at": "2025-02-27T18:12:41Z"
+        },
+        {
+          "title": "Add license_name",
+          "number": 4,
+          "url": "https://huggingface.co/apple/deeplabv3-mobilevit-small/discussions/4",
+          "created_at": "2025-02-26T12:49:54Z",
+          "closed_at": "2025-02-27T18:12:13Z"
+        }
+      ]
+    },
+    {
+      "model_name": "TencentARC/PhotoMaker",
+      "created_at": "2024-01-13T14:11:54Z",
+      "discussions": [
+        {
+          "title": "Delete LICENSE",
+          "number": 5,
+          "url": "https://huggingface.co/TencentARC/PhotoMaker/discussions/5",
+          "created_at": "2024-01-21T11:58:21Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "meta-llama/Meta-Llama-3-70B-Instruct",
+      "created_at": "2024-04-17T09:34:54Z",
+      "discussions": [
+        {
+          "title": "Change license from other to llama3",
+          "number": 47,
+          "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct/discussions/47",
+          "created_at": "2024-05-07T08:12:36Z",
+          "closed_at": "2024-05-13T09:35:43Z"
+        }
+      ]
+    },
+    {
+      "model_name": "Jean-Baptiste/camembert-ner-with-dates",
+      "created_at": "2022-03-02T23:29:04Z",
+      "discussions": [
+        {
+          "title": "License Info",
+          "number": 4,
+          "url": "https://huggingface.co/Jean-Baptiste/camembert-ner-with-dates/discussions/4",
+          "created_at": "2023-06-15T06:33:01Z",
+          "closed_at": "2023-06-16T01:32:24Z"
+        }
+      ]
+    },
+    {
+      "model_name": "cognitivecomputations/dolphin-2_6-phi-2",
+      "created_at": "2023-12-23T07:51:30Z",
+      "discussions": [
+        {
+          "title": "Switch license to MIT?",
+          "number": 7,
+          "url": "https://huggingface.co/cognitivecomputations/dolphin-2_6-phi-2/discussions/7",
+          "created_at": "2024-01-06T08:51:14Z",
+          "closed_at": "2024-01-06T09:30:01Z"
+        }
+      ]
+    },
+    {
+      "model_name": "CohereForAI/c4ai-command-r-v01",
+      "created_at": "2024-03-11T15:50:54Z",
+      "discussions": [
+        {
+          "title": "License Clarification - Outputed text",
+          "number": 55,
+          "url": "https://huggingface.co/CohereForAI/c4ai-command-r-v01/discussions/55",
+          "created_at": "2024-05-31T02:44:28Z",
+          "closed_at": "2024-07-01T08:32:56Z"
+        }
+      ]
+    },
+    {
+      "model_name": "FinGPT/fingpt-forecaster_dow30_llama2-7b_lora",
+      "created_at": "2023-10-30T07:37:02Z",
+      "discussions": [
+        {
+          "title": "Pick a license",
+          "number": 8,
+          "url": "https://huggingface.co/FinGPT/fingpt-forecaster_dow30_llama2-7b_lora/discussions/8",
+          "created_at": "2024-04-30T10:47:03Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "protectai/deberta-v3-base-prompt-injection-v2",
+      "created_at": "2024-04-20T16:52:22Z",
+      "discussions": [
+        {
+          "title": "Create License file as per Tag",
+          "number": 3,
+          "url": "https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2/discussions/3",
+          "created_at": "2024-05-27T15:12:42Z",
+          "closed_at": "2024-05-28T07:07:49Z"
+        }
+      ]
+    },
+    {
+      "model_name": "lllyasviel/Annotators",
+      "created_at": "2023-03-14T15:30:15Z",
+      "discussions": [
+        {
+          "title": "license",
+          "number": 3,
+          "url": "https://huggingface.co/lllyasviel/Annotators/discussions/3",
+          "created_at": "2024-04-12T06:40:55Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "NousResearch/Meta-Llama-3-8B",
+      "created_at": "2024-04-18T16:47:58Z",
+      "discussions": [
+        {
+          "title": "Upload LICENSE",
+          "number": 3,
+          "url": "https://huggingface.co/NousResearch/Meta-Llama-3-8B/discussions/3",
+          "created_at": "2024-04-24T05:07:01Z",
+          "closed_at": "2024-04-24T05:07:54Z"
+        }
+      ]
+    },
+    {
+      "model_name": "openai/whisper-base",
+      "created_at": "2022-09-26T06:50:46Z",
+      "discussions": [
+        {
+          "title": "license",
+          "number": 17,
+          "url": "https://huggingface.co/openai/whisper-base/discussions/17",
+          "created_at": "2023-05-10T08:41:06Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "deepseek-ai/deepseek-coder-33b-instruct",
+      "created_at": "2023-11-01T05:46:34Z",
+      "discussions": [
+        {
+          "title": "LICENSE file is 0 bytes",
+          "number": 3,
+          "url": "https://huggingface.co/deepseek-ai/deepseek-coder-33b-instruct/discussions/3",
+          "created_at": "2023-11-05T13:14:13Z",
+          "closed_at": "2023-11-07T11:19:57Z"
+        }
+      ]
+    },
+    {
+      "model_name": "cerspense/zeroscope_v2_576w",
+      "created_at": "2023-06-21T19:10:41Z",
+      "discussions": [
+        {
+          "title": "curious, what's the license for this model?",
+          "number": 4,
+          "url": "https://huggingface.co/cerspense/zeroscope_v2_576w/discussions/4",
+          "created_at": "2023-06-27T11:04:01Z",
+          "closed_at": "2023-06-28T00:24:56Z"
+        }
+      ]
+    },
+    {
+      "model_name": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+      "created_at": "2023-12-30T06:27:30Z",
+      "discussions": [
+        {
+          "title": "What is the original license of 1.1B Llama ?",
+          "number": 52,
+          "url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0/discussions/52",
+          "created_at": "2025-03-24T17:02:14Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "cvssp/audioldm",
+      "created_at": "2023-02-21T10:35:00Z",
+      "discussions": [
+        {
+          "title": "add license",
+          "number": 5,
+          "url": "https://huggingface.co/cvssp/audioldm/discussions/5",
+          "created_at": "2023-04-13T13:17:28Z",
+          "closed_at": "2023-04-13T13:18:05Z"
+        }
+      ]
+    },
+    {
+      "model_name": "black-forest-labs/FLUX.1-schnell",
+      "created_at": "2024-07-31T19:58:05Z",
+      "discussions": [
+        {
+          "title": "Quenstion about MIT Licence",
+          "number": 83,
+          "url": "https://huggingface.co/microsoft/Florence-2-large/discussions/83",
+          "created_at": "2024-11-13T07:39:44Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "microsoft/Florence-2-large",
+      "created_at": "2024-06-15T00:34:55Z",
+      "discussions": [
+        {
+          "title": "Licence issue",
+          "number": 55,
+          "url": "https://huggingface.co/black-forest-labs/FLUX.1-schnell/discussions/55",
+          "created_at": "2024-08-26T13:46:59Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "tloen/alpaca-lora-7b",
+      "created_at": "2023-03-14T00:10:54Z",
+      "discussions": [
+        {
+          "title": " How can be this model here MIT licensed, when it is based on Stanford Alpaca?",
+          "number": 2,
+          "url": "https://huggingface.co/tloen/alpaca-lora-7b/discussions/2",
+          "created_at": "2023-03-18T14:58:51Z",
+          "closed_at": ""
+        }
+      ]
+    },
+    {
+      "model_name": "microsoft/phi-1",
+      "created_at": "2023-09-10T04:10:57Z",
+      "discussions": [
+        {
+          "title": "MIT License?",
+          "number": 7,
+          "url": "https://huggingface.co/microsoft/phi-1/discussions/7",
+          "created_at": "2024-01-07T21:21:33Z",
+          "closed_at": "2024-01-08T13:04:09Z"
+        }
+      ]
+    }
+  ]
+}

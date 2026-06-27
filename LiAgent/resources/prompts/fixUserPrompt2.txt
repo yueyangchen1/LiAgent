@@ -1,0 +1,17 @@
+
+    ### **Expected JSON Output Format:**
+    - Ensure that each term appears only once and that the attitude is unique for each term.
+    - The output format should be the same as in the first round, where each term is presented with the following fields:
+    ```json
+    {
+      "results": [
+        {
+          "sentence": "<Best representative sentence>",
+          "term": "<Analyzed term>",
+          "object": "<Relevant object>",
+          "attitude": "<can, cannot, or must>",
+          "condition": "<Any required condition>",
+          "condition_term": "<Relevant predefined terms>"
+        }
+      ]
+    }

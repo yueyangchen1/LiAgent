@@ -1,0 +1,66 @@
+
+            2. When analyzing the text, identify any occurrences of the listed terms and their direct variations.
+                - The `term` field in the output **must** be one of the predefined terms in the list. Do not generate new terms.
+                - If a word or phrase **has a very similar meaning** to a predefined term, map it to that term.
+                - If a word or phrase **cannot be directly mapped** to any predefined term, **ignore it** and do not output any result.
+                - If a term appears multiple times in different sentences, it must appear only once in the final output.Analyze all occurrences of the term across the entire license text.Choose the sentence that best represents the dominant legal attitude toward the term.
+                - Ensure that **each term appears only once** in the final output.
+
+            3. For each identified term:
+               - Extract the **term** (action) from the terms list.
+               - Identify the **object** of the action.
+               - Infer the attitude towards the term as "can", "cannot", or "must" based on the overall meaning of the entire license.
+               - If a term appears in multiple sentences with different attitudes, do not split them into multiple outputs.
+               - Instead, select the most representative attitude using the following priority:
+                    "cannot" (if restriction is the dominant theme)
+                    "must" (if obligation is the dominant theme)
+                    "can" (if permission is the dominant theme)
+               - Do not allow duplicate terms in the output, even if they appear multiple times in the text.
+               - Extract the **condition** (if any), which refers to additional terms or requirements that must be met to perform the action.
+               - If the **condition** includes any terms from the provided list, extract these terms separately into a new field `condition_term`.
+
+            4. Format your results as a list of JSON objects. Each object must include:
+               - `sentence`: The original sentence where the term was found.
+               - `term`: The term (action) identified from the terms list.
+               - `object`: The object of the action.
+               - `attitude`: Inferred as "can," "cannot," or "must."
+               - `condition`: A condition required to perform the action (if applicable), such as another license term or requirement that must be met.
+               - `condition_term`: The term(s) from the provided list that appear in the condition. If none, set this field to an empty string.
+
+            Example Input:
+            "You are allowed to distribute modified works. You must give credit to the original author of the work. You can modify if you state changes."
+
+            Example Output:
+            ```json
+            {
+              "results": [
+                  {
+                    "sentence": "You are allowed to distribute modified works",
+                    "term": "Distribute",
+                    "object": "modified works",
+                    "attitude": "can",
+                    "condition": "",
+                    "condition_term": ""
+                  },
+                  {
+                    "sentence": "You must give credit to the original author of the work",
+                    "term": "Give Credit",
+                    "object": "original author of the work",
+                    "attitude": "must",
+                    "condition": "",
+                    "condition_term": ""
+                  },
+                  {
+                    "sentence": "You can modify if you state changes",
+                    "term": "Modify",
+                    "object": "",
+                    "attitude": "can",
+                    "condition": "you state changes",
+                    "condition_term": "State Changes"
+                  }
+              ]
+            }
+
+            6. Do not output any additional content besides the JSON result.
+
+            Now analyze the following license:
