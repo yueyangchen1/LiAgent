@@ -78,7 +78,36 @@ python analyseLicense.py
 
 - **Console output**: `Processing file: license/llama2.txt` → ... → `✅ Processing completed.`
 - **`result.csv`** — A CSV file where each row is a license and each column is one of 23 license terms. Values: `0` = not mentioned, `1` = can, `2` = cannot, `3` = must.
-- **`result/`** — A directory containing human-readable summaries for each license, organized by 🟢 CAN / 🔴 CANNOT / ⚠️ MUST categories.
+- **`result/`** — A directory containing **human-readable summaries** for each license. These are the most intuitive way to view results. Each file looks like:
+
+  ```
+  ==================================================
+  LICENSE SUMMARY: llama2.txt
+  ==================================================
+
+  🟢 YOU CAN:
+  --------------------------------------------------
+  - Distribute
+  - Modify
+
+  🔴 YOU CANNOT:
+  --------------------------------------------------
+  - Commercial Use
+  - Hold Liable
+  - Sublicense
+  - Use Trademark
+  - Private Use
+
+  ⚠️ YOU MUST:
+  --------------------------------------------------
+  - Include License
+
+  ==================================================
+  Processed by: LiAgent
+  ```
+
+  > **Tip**: You can browse all summary files with `cat result/*` or open any individual file (e.g., `cat result/llama2.txt`).
+
 - **`tmp/`** — Intermediate processing files (split text segments and raw LLM outputs). These can be ignored.
 
 Example `result.csv` row:
