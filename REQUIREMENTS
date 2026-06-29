@@ -1,0 +1,27 @@
+# Requirements
+
+## Architecture
+- This artifact was packaged and tested on **x86_64 (amd64)** architecture.
+- It should also work on **ARM64** (e.g., Apple Silicon) with Docker's emulation layer.
+
+## Hardware Requirements
+- **CPU**: Any modern multi-core processor (no specific model required)
+- **RAM**: At least 4 GB (the tool itself is lightweight; memory usage depends on license file sizes)
+- **Disk**: ~500 MB for the Docker image + ~100 MB for the artifact data
+- **GPU**: Not required (LiAgent uses cloud-based LLM APIs, not local model inference)
+- **Network**: Internet access is required for LLM API calls
+
+## Software Requirements
+- **Docker** 20.10+ (recommended) OR
+- **Python** 3.8+ with pip
+- **OS**: Linux, macOS, or Windows (with Docker or WSL)
+
+## Dependencies (automatically installed)
+- `openai==2.16.0` — OpenAI-compatible API client
+- `PyYAML==6.0.3` — YAML configuration parser
+
+## External Services
+- **LLM API**: LiAgent requires access to an OpenAI-compatible LLM API (e.g., OpenAI, DeepSeek, Qwen).
+  - Reviewers need to provide their own API key in `LiAgent/config.yaml`.
+  - The API must be accessible during the review period.
+  - API costs are minimal: analyzing one license costs approximately $0.01–$0.05 depending on the model and license length.

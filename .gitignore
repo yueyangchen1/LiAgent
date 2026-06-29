@@ -1,2 +1,12 @@
 .venv/
 .idea/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.log
+LiAgent/tmp/
+LiAgent/result/
+LiAgent/result.csv
+LiAgent/license/
+*.pdf

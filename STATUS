@@ -1,0 +1,27 @@
+# Status
+
+## Badges Applied For
+
+We apply for the following ACM artifact badges:
+
+### 1. Artifacts Evaluated — Functional
+
+**Justification**: Our artifact includes:
+- **LiAgent**, a fully functional LLM-based multi-agent tool for license compatibility analysis that can be installed and run with a single command (`python analyseLicense.py`).
+- **Complete empirical datasets** for all four research questions (RQ1–RQ4), including 12,180 GitHub repositories, 3,988 LLMs, 708 datasets, and manually verified ground truth labels.
+- **Comprehensive documentation** (README with Getting Started guide and step-by-step reproduction instructions).
+- **Docker packaging** for easy setup and evaluation.
+
+The artifact is documented, consistent with the paper, complete, and exercisable. Reviewers can verify LiAgent's performance (RQ4) by running it on the provided ground truth datasets and comparing against the labeled results.
+
+### 2. Artifacts Evaluated — Reusable
+
+**Justification**: Beyond basic functionality, our artifact is designed for reuse:
+- **LiAgent is extensible**: It supports any OpenAI-compatible LLM API and can analyze arbitrary license text files, not just those in our study.
+- **Modular architecture**: The extraction agent and repair agent are cleanly separated, allowing researchers to modify or extend individual components.
+- **Well-structured data**: All datasets are provided in standard formats (CSV, JSON, TXT) with clear documentation, enabling researchers to build upon our empirical findings.
+- **Configurable**: Users can easily switch between different LLM backends by editing `config.yaml`.
+
+### 3. Artifacts Available
+
+**Justification**: The artifact is publicly archived on Zenodo with a permanent DOI, ensuring long-term accessibility and citability. The repository is also available on GitHub for community engagement.

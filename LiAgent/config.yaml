@@ -1,4 +1,4 @@
-# 模型配置
+# Model configuration
 models:
   gpt-4o:
     api_key: ""
