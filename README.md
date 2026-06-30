@@ -26,14 +26,25 @@ This artifact accompanies our study on licensing risks in the PTMware (Pre-Train
 
 ### 1.3 Installation
 
-#### Option A: Using Docker (Recommended)
+#### Option A: Using Pre-built Docker Image (Recommended)
+
+If you have the pre-built Docker image (`liagent-artifact.tar.gz`), load and run it directly:
+
+```bash
+docker load -i liagent-artifact.tar.gz
+docker run -it liagent:v1.0 bash
+```
+
+#### Option B: Building Docker Image from Source
+
+Alternatively, you can build the Docker image yourself from the Dockerfile:
 
 ```bash
 docker build -t liagent .
 docker run -it liagent /bin/bash
 ```
 
-#### Option B: Local Installation
+#### Option C: Local Installation (Without Docker)
 
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
